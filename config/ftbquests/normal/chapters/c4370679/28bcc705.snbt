@@ -1,0 +1,22 @@
+{
+	title: "WATER",
+	x: 5.5d,
+	y: -1.5d,
+	description: "Fill the Bucket",
+	text: [
+		""
+	],
+	dependencies: [
+		"658379fa"
+	],
+	tasks: [{
+		uid: "8483472f",
+		type: "fluid",
+		fluid: "water"
+	}],
+	rewards: [{
+		uid: "3f641f8a",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

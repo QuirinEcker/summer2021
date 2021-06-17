@@ -1,0 +1,24 @@
+{
+	title: "Alloy This",
+	x: 22.5d,
+	y: 0.0d,
+	description: "Craft an Alloy Smelter",
+	text: [
+		""
+	],
+	dependencies: [
+		"4029e3c2"
+	],
+	tasks: [{
+		uid: "8e291aba",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_alloy_smelter"
+		}]
+	}],
+	rewards: [{
+		uid: "2657d42c",
+		type: "item",
+		item: "minecraft:ender_pearl"
+	}]
+}

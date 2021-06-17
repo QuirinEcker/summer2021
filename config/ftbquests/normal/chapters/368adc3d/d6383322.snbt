@@ -1,0 +1,26 @@
+{
+	title: "Grid Power",
+	x: 7.5d,
+	y: 0.0d,
+	description: "Craft 4 Water Mills and place them in flowing water",
+	text: [
+		""
+	],
+	dependencies: [
+		"7f4d2f92"
+	],
+	tasks: [{
+		uid: "2a8c7351",
+		type: "item",
+		items: [{
+			item: "extrautils2:passivegenerator 1 3"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "4960a367",
+		type: "item",
+		item: "chickens:liquid_egg",
+		count: 4
+	}]
+}

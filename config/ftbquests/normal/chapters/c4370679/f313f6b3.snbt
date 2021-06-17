@@ -1,0 +1,26 @@
+{
+	title: "Do you have \"Dream\" luck?",
+	x: 7.5d,
+	y: 0.0d,
+	description: "If so you should get the 8 Blazerods after only 10 kills",
+	text: [
+		""
+	],
+	dependencies: [
+		"ac220262"
+	],
+	tasks: [{
+		uid: "73267ef4",
+		type: "kill",
+		entity: "minecraft:blaze",
+		value: 10L
+	},
+	{
+		uid: "836f8ea9",
+		type: "item",
+		items: [{
+			item: "minecraft:blaze_rod"
+		}],
+		count: 8L
+	}]
+}

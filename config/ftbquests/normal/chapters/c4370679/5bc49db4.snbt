@@ -1,0 +1,24 @@
+{
+	title: "First Diamond",
+	x: 4.5d,
+	y: 0.0d,
+	description: "Mine your first diamond",
+	text: [
+		""
+	],
+	dependencies: [
+		"408b8954"
+	],
+	tasks: [{
+		uid: "190a33a2",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}]
+	}],
+	rewards: [{
+		uid: "bb23d8b2",
+		type: "item",
+		item: "minecraft:emerald"
+	}]
+}

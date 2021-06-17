@@ -1,0 +1,30 @@
+{
+	title: "DUBSTEP",
+	x: 15.0d,
+	y: 0.0d,
+	description: "Craft a Dubstep Pet",
+	text: [
+		""
+	],
+	dependencies: [
+		"64688d37"
+	],
+	tasks: [{
+		uid: "a7e51a52",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "inventorypets:dubstep_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e621e649",
+		type: "item",
+		item: "minecraft:noteblock",
+		count: 64
+	}]
+}

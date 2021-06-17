@@ -1,0 +1,31 @@
+{
+	title: "Unlock Tier One",
+	icon: "extendedcrafting:table_basic",
+	x: 13.5d,
+	y: -1.5d,
+	description: "Get a Basic Crafting Table",
+	text: [
+		""
+	],
+	dependencies: [
+		"fc19d416"
+	],
+	tasks: [{
+		uid: "812b4e46",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_basic"
+		}]
+	}],
+	rewards: [{
+		uid: "00544aca",
+		type: "gamestage",
+		auto: "enabled",
+		stage: "tier1"
+	},
+	{
+		uid: "a3a81ced",
+		type: "random",
+		table: 0
+	}]
+}

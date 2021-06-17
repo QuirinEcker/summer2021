@@ -1,0 +1,30 @@
+[
+  {
+    "identifier": "fast_forward",
+    "title": "a",
+    "description": "a",
+    "icon": "{id:\"minecraft:stone\",Count:1b,Damage:0s}",
+    "x": 313,
+    "y": 110,
+    "cost": 10,
+    "sellPrice": 10,
+    "parents": [],
+    "partialParents": false,
+    "children": [],
+    "placed": true
+  },
+  {
+    "identifier": "projecte",
+    "title": "ProjectE",
+    "description": "Unlock ProjectE",
+    "icon": "{id:\"extendedcrafting:table_ultimate\",Count:1b,Damage:0s}",
+    "x": 313,
+    "y": 170,
+    "cost": 10,
+    "sellPrice": 10,
+    "parents": [],
+    "partialParents": false,
+    "children": [],
+    "placed": true
+  }
+]

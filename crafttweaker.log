@@ -1,0 +1,1405 @@
+[PREINITIALIZATION][CLIENT][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
+IDroid
+BigAl607
+DreamThorn
+Brønsted
+Shotguun29
+Genryu
+Jonathan McManus
+Ncc1702
+Jams
+Quaternary
+Pongo Sapiens
+Robijnvogel
+Ivy_
+Belathus
+Luckyclaw
+AdaraChristine
+NickT
+Peregrinus11
+Barrier
+Otakup0pe
+If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
+
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: crafting.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: furnace.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: main.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mods/bonsai.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mods/inspirations.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mods/mysticalAggriculture.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mods/projectE.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mods/roost.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ore.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 2ms
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [contenttweaker]
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: crafting.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: furnace.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: main.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mods/bonsai.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mods/inspirations.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mods/mysticalAggriculture.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mods/projectE.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mods/roost.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ore.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker], [gamestagebooks]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [gamestagebooks]
+[PREINITIALIZATION][CLIENT][INFO] [gamestagebooks | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: crafting.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gamestagebooks | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: furnace.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gamestagebooks | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: main.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gamestagebooks | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mods/bonsai.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gamestagebooks | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mods/inspirations.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gamestagebooks | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mods/mysticalAggriculture.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gamestagebooks | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mods/projectE.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gamestagebooks | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mods/roost.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gamestagebooks | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ore.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker], [gamestagebooks], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: crafting.zs}
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Basic Collector [MK1]
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Dark Matter Collector [MK2]
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Red Matter Collector [MK3]
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Basic Relay [MK1]
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Dark Matter Relay [MK2]
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Red Matter Relay [MK3]
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Energy Condenser
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Energy Condenser MK2
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Personal EMC Link
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Transmutation Table
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_transmutation_table for Transmutation Table
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: furnace.zs}
+[INITIALIZATION][CLIENT][ERROR] furnace.zs:15: Could not resolve <contenttweaker : ardite_dust>
+[INITIALIZATION][CLIENT][ERROR] furnace.zs:16: Could not resolve <contenttweaker : cobalt_dust>
+[INITIALIZATION][CLIENT][ERROR] [crafttweaker]: Error executing {[0:crafttweaker]: furnace.zs}: null
+java.lang.NullPointerException
+	at crafttweaker.mc1120.furnace.MCFurnaceManager.addRecipe(MCFurnaceManager.java:49)
+	at Furnace.__script__(furnace.zs:23)
+	at __ZenMain__.run(Furnace)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:240)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at youyihj.zenutils.impl.delegate.ZenUtilsTweaker.loadScript(ZenUtilsTweaker.java:47)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:67)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1986_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:3931)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: main.zs}
+[INITIALIZATION][CLIENT][ERROR] main.zs:5 > could not find DimensionStages
+[INITIALIZATION][CLIENT][ERROR] [crafttweaker]: Error executing {[0:crafttweaker]: main.zs}: Bad type on operand stack
+Exception Details:
+  Location:
+    Main.__script__()V @33: invokestatic
+  Reason:
+    Type 'stanhebben/zenscript/value/IAny' (current frame, stack[4]) is not assignable to 'java/lang/String'
+  Current Frame:
+    bci: @33
+    flags: { }
+    locals: { }
+    stack: { null, '[Lstanhebben/zenscript/value/IAny;', '[Lstanhebben/zenscript/value/IAny;', integer, 'stanhebben/zenscript/value/IAny' }
+  Bytecode:
+    0x0000000: 120b b800 1112 13b8 0011 0112 14bd 0016
+    0x0000010: 5912 1712 1959 c700 0857 01a7 0006 b800
+    0x0000020: 1fb8 0025 59c7 0008 5701 a700 06b8 001f
+    0x0000030: 5359 1226 1228 59c7 0008 5701 a700 06b8
+    0x0000040: 001f b800 2559 c700 0857 01a7 0006 b800
+    0x0000050: 1f53 5912 2912 2b59 c700 0857 01a7 0006
+    0x0000060: b800 1fb8 0025 59c7 0008 5701 a700 06b8
+    0x0000070: 001f 53b9 002f 0200 57b1               
+  Stackmap Table:
+    full_frame(@30,{},{Null,Object[#49],Object[#49],Integer,Object[#51]})
+    full_frame(@33,{},{Null,Object[#49],Object[#49],Integer,Object[#22]})
+    full_frame(@45,{},{Null,Object[#49],Object[#49],Integer,Object[#53]})
+    full_frame(@48,{},{Null,Object[#49],Object[#49],Integer,Object[#22]})
+    full_frame(@63,{},{Null,Object[#49],Object[#49],Integer,Object[#51]})
+    full_frame(@66,{},{Null,Object[#49],Object[#49],Integer,Object[#22]})
+    full_frame(@78,{},{Null,Object[#49],Object[#49],Integer,Object[#53]})
+    full_frame(@81,{},{Null,Object[#49],Object[#49],Integer,Object[#22]})
+    full_frame(@96,{},{Null,Object[#49],Object[#49],Integer,Object[#51]})
+    full_frame(@99,{},{Null,Object[#49],Object[#49],Integer,Object[#22]})
+    full_frame(@111,{},{Null,Object[#49],Object[#49],Integer,Object[#53]})
+    full_frame(@114,{},{Null,Object[#49],Object[#49],Integer,Object[#22]})
+
+java.lang.VerifyError: Bad type on operand stack
+Exception Details:
+  Location:
+    Main.__script__()V @33: invokestatic
+  Reason:
+    Type 'stanhebben/zenscript/value/IAny' (current frame, stack[4]) is not assignable to 'java/lang/String'
+  Current Frame:
+    bci: @33
+    flags: { }
+    locals: { }
+    stack: { null, '[Lstanhebben/zenscript/value/IAny;', '[Lstanhebben/zenscript/value/IAny;', integer, 'stanhebben/zenscript/value/IAny' }
+  Bytecode:
+    0x0000000: 120b b800 1112 13b8 0011 0112 14bd 0016
+    0x0000010: 5912 1712 1959 c700 0857 01a7 0006 b800
+    0x0000020: 1fb8 0025 59c7 0008 5701 a700 06b8 001f
+    0x0000030: 5359 1226 1228 59c7 0008 5701 a700 06b8
+    0x0000040: 001f b800 2559 c700 0857 01a7 0006 b800
+    0x0000050: 1f53 5912 2912 2b59 c700 0857 01a7 0006
+    0x0000060: b800 1fb8 0025 59c7 0008 5701 a700 06b8
+    0x0000070: 001f 53b9 002f 0200 57b1               
+  Stackmap Table:
+    full_frame(@30,{},{Null,Object[#49],Object[#49],Integer,Object[#51]})
+    full_frame(@33,{},{Null,Object[#49],Object[#49],Integer,Object[#22]})
+    full_frame(@45,{},{Null,Object[#49],Object[#49],Integer,Object[#53]})
+    full_frame(@48,{},{Null,Object[#49],Object[#49],Integer,Object[#22]})
+    full_frame(@63,{},{Null,Object[#49],Object[#49],Integer,Object[#51]})
+    full_frame(@66,{},{Null,Object[#49],Object[#49],Integer,Object[#22]})
+    full_frame(@78,{},{Null,Object[#49],Object[#49],Integer,Object[#53]})
+    full_frame(@81,{},{Null,Object[#49],Object[#49],Integer,Object[#22]})
+    full_frame(@96,{},{Null,Object[#49],Object[#49],Integer,Object[#51]})
+    full_frame(@99,{},{Null,Object[#49],Object[#49],Integer,Object[#22]})
+    full_frame(@111,{},{Null,Object[#49],Object[#49],Integer,Object[#53]})
+    full_frame(@114,{},{Null,Object[#49],Object[#49],Integer,Object[#22]})
+
+	at __ZenMain__.run(Main)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:240)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at youyihj.zenutils.impl.delegate.ZenUtilsTweaker.loadScript(ZenUtilsTweaker.java:47)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:67)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1986_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:3931)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: mods/bonsai.zs}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage bonsai. Hopping Bonsai Pot - bonsaitrees:bonsaipot:1
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: mods/inspirations.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: mods/mysticalAggriculture.zs}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. 6 entries: 
+Block of Inferium Essence - mysticalagriculture:storage:0
+Block of Prudentium Essence - mysticalagriculture:storage:1
+Block of Intermedium Essence - mysticalagriculture:storage:2
+Block of Superium Essence - mysticalagriculture:storage:3
+Block of Supremium Essence - mysticalagriculture:storage:4
+Block of Prosperity - mysticalagriculture:storage:5
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. 7 entries: 
+Block of Base Essence - mysticalagriculture:ingot_storage:0
+Block of Inferium - mysticalagriculture:ingot_storage:1
+Block of Prudentium - mysticalagriculture:ingot_storage:2
+Block of Intermedium - mysticalagriculture:ingot_storage:3
+Block of Superium - mysticalagriculture:ingot_storage:4
+Block of Supremium - mysticalagriculture:ingot_storage:5
+Block of Soulium - mysticalagriculture:ingot_storage:6
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. 5 entries: 
+Block of Inferium Coal - mysticalagriculture:coal_block:0
+Block of Prudentium Coal - mysticalagriculture:coal_block:1
+Block of Intermedium Coal - mysticalagriculture:coal_block:2
+Block of Superium Coal - mysticalagriculture:coal_block:3
+Block of Supremium Coal - mysticalagriculture:coal_block:4
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. 7 entries: 
+Soulstone - mysticalagriculture:soulstone:0
+Cobbled Soulstone - mysticalagriculture:soulstone:1
+Polished Soulstone - mysticalagriculture:soulstone:2
+Soulstone Bricks - mysticalagriculture:soulstone:3
+Cracked Soulstone Bricks - mysticalagriculture:soulstone:4
+Chiseled Soulstone - mysticalagriculture:soulstone:5
+Soulstone Slab Block - mysticalagriculture:soulstone:6
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Soulstone Slab - mysticalagriculture:soulstone_slab:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Cobbled Soulstone Slab - mysticalagriculture:cobbled_soulstone_slab:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Soulstone Brick Slab - mysticalagriculture:soulstone_brick_slab:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Cobbled Soulstone Stairs - mysticalagriculture:cobbled_soulstone_stairs:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Soulstone Brick Stairs - mysticalagriculture:soulstone_brick_stairs:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Cobbled Soulstone Wall - mysticalagriculture:cobbled_soulstone_wall:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Soulstone Brick Wall - mysticalagriculture:soulstone_brick_wall:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Soul Glass - mysticalagriculture:soul_glass:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Soul Glass Pane - mysticalagriculture:soul_glass_pane:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Furnace - mysticalagriculture:inferium_furnace:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Furnace - mysticalagriculture:prudentium_furnace:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Furnace - mysticalagriculture:intermedium_furnace:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Furnace - mysticalagriculture:superium_furnace:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Furnace - mysticalagriculture:supremium_furnace:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ultimate Furnace - mysticalagriculture:ultimate_furnace:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prosperity Ore - mysticalagriculture:prosperity_ore:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nether Prosperity Ore - mysticalagriculture:nether_prosperity_ore:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. End Prosperity Ore - mysticalagriculture:end_prosperity_ore:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Ore - mysticalagriculture:inferium_ore:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nether Inferium Ore - mysticalagriculture:nether_inferium_ore:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. End Inferium Ore - mysticalagriculture:end_inferium_ore:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Growth Accelerator - mysticalagriculture:growth_accelerator:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Mystical Machine Frame - mysticalagriculture:mystical_machine_frame:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Glowstone Lamp - mysticalagriculture:glowstone_lamp:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Seed Reprocessor - mysticalagriculture:seed_reprocessor:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Seed Reprocessor - mysticalagriculture:inferium_reprocessor:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Seed Reprocessor - mysticalagriculture:prudentium_reprocessor:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Seed Reprocessor - mysticalagriculture:intermedium_reprocessor:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Seed Reprocessor - mysticalagriculture:superium_reprocessor:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Seed Reprocessor - mysticalagriculture:supremium_reprocessor:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ultimate Seed Reprocessor - mysticalagriculture:ultimate_reprocessor:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Witherproof Block - mysticalagriculture:witherproof_block:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Witherproof Glass - mysticalagriculture:witherproof_glass:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. 5 entries: 
+Tinkering Table - mysticalagriculture:tinkering_table:0
+Tinkering Table - mysticalagriculture:tinkering_table:1
+Tinkering Table - mysticalagriculture:tinkering_table:2
+Tinkering Table - mysticalagriculture:tinkering_table:3
+Tinkering Table - mysticalagriculture:tinkering_table:4
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Tier 1 Inferium Crop - mysticalagriculture:tier1_inferium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Tier 2 Inferium Crop - mysticalagriculture:tier2_inferium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Tier 3 Inferium Crop - mysticalagriculture:tier3_inferium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Tier 4 Inferium Crop - mysticalagriculture:tier4_inferium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Tier 5 Inferium Crop - mysticalagriculture:tier5_inferium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Stone Crop - mysticalagriculture:stone_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Dirt Crop - mysticalagriculture:dirt_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nature Crop - mysticalagriculture:nature_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Wood Crop - mysticalagriculture:wood_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Water Crop - mysticalagriculture:water_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ice Crop - mysticalagriculture:ice_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Fire Crop - mysticalagriculture:fire_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Dye Crop - mysticalagriculture:dye_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nether Crop - mysticalagriculture:nether_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Coal Crop - mysticalagriculture:coal_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Iron Crop - mysticalagriculture:iron_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nether Quartz Crop - mysticalagriculture:nether_quartz_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Glowstone Crop - mysticalagriculture:glowstone_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Redstone Crop - mysticalagriculture:redstone_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Obsidian Crop - mysticalagriculture:obsidian_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Gold Crop - mysticalagriculture:gold_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Lapis Lazuli Crop - mysticalagriculture:lapis_lazuli_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. End Crop - mysticalagriculture:end_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Experience Crop - mysticalagriculture:experience_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Diamond Crop - mysticalagriculture:diamond_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Emerald Crop - mysticalagriculture:emerald_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Zombie Crop - mysticalagriculture:zombie_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Pig Crop - mysticalagriculture:pig_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Chicken Crop - mysticalagriculture:chicken_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Cow Crop - mysticalagriculture:cow_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Sheep Crop - mysticalagriculture:sheep_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Slime Crop - mysticalagriculture:slime_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Skeleton Crop - mysticalagriculture:skeleton_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Creeper Crop - mysticalagriculture:creeper_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Spider Crop - mysticalagriculture:spider_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Rabbit Crop - mysticalagriculture:rabbit_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Guardian Crop - mysticalagriculture:guardian_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Blaze Crop - mysticalagriculture:blaze_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ghast Crop - mysticalagriculture:ghast_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Enderman Crop - mysticalagriculture:enderman_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Wither Skeleton Crop - mysticalagriculture:wither_skeleton_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Silicon Crop - mysticalagriculture:silicon_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Sulfur Crop - mysticalagriculture:sulfur_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Aluminum Crop - mysticalagriculture:aluminum_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Copper Crop - mysticalagriculture:copper_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Saltpeter Crop - mysticalagriculture:saltpeter_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Tin Crop - mysticalagriculture:tin_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Bronze Crop - mysticalagriculture:bronze_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Brass Crop - mysticalagriculture:brass_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Silver Crop - mysticalagriculture:silver_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Lead Crop - mysticalagriculture:lead_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Graphite Crop - mysticalagriculture:graphite_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Steel Crop - mysticalagriculture:steel_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nickel Crop - mysticalagriculture:nickel_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Constantan Crop - mysticalagriculture:constantan_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Electrum Crop - mysticalagriculture:electrum_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Invar Crop - mysticalagriculture:invar_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Mithril Crop - mysticalagriculture:mithril_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Uranium Crop - mysticalagriculture:uranium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Platinum Crop - mysticalagriculture:platinum_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Iridium Crop - mysticalagriculture:iridium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Amber Crop - mysticalagriculture:amber_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Blizz Crop - mysticalagriculture:blizz_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Blitz Crop - mysticalagriculture:blitz_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Basalz Crop - mysticalagriculture:basalz_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Signalum Crop - mysticalagriculture:signalum_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Lumium Crop - mysticalagriculture:lumium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Enderium Crop - mysticalagriculture:enderium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Fluxed Electrum Crop - mysticalagriculture:fluxed_electrum_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Aluminum Brass Crop - mysticalagriculture:aluminum_brass_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Knightslime Crop - mysticalagriculture:knightslime_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ardite Crop - mysticalagriculture:ardite_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Cobalt Crop - mysticalagriculture:cobalt_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Manyullyn Crop - mysticalagriculture:manyullyn_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Grains of Infinity Crop - mysticalagriculture:grains_of_infinity_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Electrical Steel Crop - mysticalagriculture:electrical_steel_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Redstone Alloy Crop - mysticalagriculture:redstone_alloy_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Conductive Iron Crop - mysticalagriculture:conductive_iron_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Soularium Crop - mysticalagriculture:soularium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Dark Steel Crop - mysticalagriculture:dark_steel_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Pulsating Iron Crop - mysticalagriculture:pulsating_iron_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Energetic Alloy Crop - mysticalagriculture:energetic_alloy_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Vibrant Alloy Crop - mysticalagriculture:vibrant_alloy_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. End Steel Crop - mysticalagriculture:end_steel_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Mystical Flower Crop - mysticalagriculture:mystical_flower_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Manasteel Crop - mysticalagriculture:manasteel_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Elementium Crop - mysticalagriculture:elementium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Terrasteel Crop - mysticalagriculture:terrasteel_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Quicksilver Crop - mysticalagriculture:quicksilver_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Thaumium Crop - mysticalagriculture:thaumium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Void Metal Crop - mysticalagriculture:void_metal_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Osmium Crop - mysticalagriculture:osmium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Glowstone Ingot Crop - mysticalagriculture:glowstone_ingot_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Refined Obsidian Crop - mysticalagriculture:refined_obsidian_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Marble Crop - mysticalagriculture:marble_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Limestone Crop - mysticalagriculture:limestone_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Basalt Crop - mysticalagriculture:basalt_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Steeleaf Crop - mysticalagriculture:steeleaf_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ironwood Crop - mysticalagriculture:ironwood_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Knightmetal Crop - mysticalagriculture:knightmetal_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Fiery Ingot Crop - mysticalagriculture:fiery_ingot_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Thorium Crop - mysticalagriculture:thorium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Boron Crop - mysticalagriculture:boron_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Lithium Crop - mysticalagriculture:lithium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Magnesium Crop - mysticalagriculture:magnesium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Aquamarine Crop - mysticalagriculture:aquamarine_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Starmetal Crop - mysticalagriculture:starmetal_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Rock Crystal Crop - mysticalagriculture:rock_crystal_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ender Biotite Crop - mysticalagriculture:ender_biotite_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Dilithium Crop - mysticalagriculture:dilithium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Tritanium Crop - mysticalagriculture:tritanium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Draconium Crop - mysticalagriculture:draconium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Yellorium Crop - mysticalagriculture:yellorium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Sky Stone Crop - mysticalagriculture:sky_stone_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Certus Quartz Crop - mysticalagriculture:certus_quartz_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Fluix Crop - mysticalagriculture:fluix_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Miner's Torch - mysticalagriculture:miners_torch:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. 44 entries: 
+Inferium Essence - mysticalagriculture:crafting:0
+Prudentium Essence - mysticalagriculture:crafting:1
+Intermedium Essence - mysticalagriculture:crafting:2
+Superium Essence - mysticalagriculture:crafting:3
+Supremium Essence - mysticalagriculture:crafting:4
+Prosperity Shard - mysticalagriculture:crafting:5
+Nature Cluster - mysticalagriculture:crafting:6
+Dye Cluster - mysticalagriculture:crafting:7
+Nether Cluster - mysticalagriculture:crafting:8
+End Cluster - mysticalagriculture:crafting:9
+Mystical Flower Cluster - mysticalagriculture:crafting:10
+Blank Record - mysticalagriculture:crafting:14
+Blank Skull - mysticalagriculture:crafting:15
+Base Crafting Seed - mysticalagriculture:crafting:16
+Tier 1 Crafting Seed - mysticalagriculture:crafting:17
+Tier 2 Crafting Seed - mysticalagriculture:crafting:18
+Tier 3 Crafting Seed - mysticalagriculture:crafting:19
+Tier 4 Crafting Seed - mysticalagriculture:crafting:20
+Tier 5 Crafting Seed - mysticalagriculture:crafting:21
+Mystical Stick - mysticalagriculture:crafting:22
+Mystical String - mysticalagriculture:crafting:23
+Mystical Feather - mysticalagriculture:crafting:24
+Soul Dust - mysticalagriculture:crafting:28
+Soulium Dust - mysticalagriculture:crafting:29
+Base Essence Ingot - mysticalagriculture:crafting:32
+Inferium Ingot - mysticalagriculture:crafting:33
+Prudentium Ingot - mysticalagriculture:crafting:34
+Intermedium Ingot - mysticalagriculture:crafting:35
+Superium Ingot - mysticalagriculture:crafting:36
+Supremium Ingot - mysticalagriculture:crafting:37
+Soulium Ingot - mysticalagriculture:crafting:38
+Base Essence Nugget - mysticalagriculture:crafting:39
+Inferium Nugget - mysticalagriculture:crafting:40
+Prudentium Nugget - mysticalagriculture:crafting:41
+Intermedium Nugget - mysticalagriculture:crafting:42
+Superium Nugget - mysticalagriculture:crafting:43
+Supremium Nugget - mysticalagriculture:crafting:44
+Soulium Nugget - mysticalagriculture:crafting:45
+Theoretical Infinite Water Source - mysticalagriculture:crafting:48
+Inferium Fertilization Core - mysticalagriculture:crafting:50
+Prudentium Fertilization Core - mysticalagriculture:crafting:51
+Intermedium Fertilization Core - mysticalagriculture:crafting:52
+Superium Fertilization Core - mysticalagriculture:crafting:53
+Supremium Fertilization Core - mysticalagriculture:crafting:54
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Infusion Crystal - mysticalagriculture:infusion_crystal:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Master Infusion Crystal - mysticalagriculture:master_infusion_crystal:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Core Remover - mysticalagriculture:core_remover:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Fertilized Essence - mysticalagriculture:fertilized_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Mystical Fertilizer - mysticalagriculture:mystical_fertilizer:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Apple - mysticalagriculture:inferium_apple:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Apple - mysticalagriculture:prudentium_apple:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Apple - mysticalagriculture:intermedium_apple:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Apple - mysticalagriculture:superium_apple:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Apple - mysticalagriculture:supremium_apple:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. 5 entries: 
+Inferium Coal - mysticalagriculture:coal:0
+Prudentium Coal - mysticalagriculture:coal:1
+Intermedium Coal - mysticalagriculture:coal:2
+Superium Coal - mysticalagriculture:coal:3
+Supremium Coal - mysticalagriculture:coal:4
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. 5 entries: 
+Inferium Watering Can - mysticalagriculture:watering_can:0
+Prudentium Watering Can - mysticalagriculture:watering_can:1
+Intermedium Watering Can - mysticalagriculture:watering_can:2
+Superium Watering Can - mysticalagriculture:watering_can:3
+Supremium Watering Can - mysticalagriculture:watering_can:4
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Soulium Dagger - mysticalagriculture:soulium_dagger:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Experience Droplet - mysticalagriculture:xp_droplet:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. 24 entries: 
+Tier 1 Mob Chunk - mysticalagriculture:chunk:0
+Tier 2 Mob Chunk - mysticalagriculture:chunk:1
+Tier 3 Mob Chunk - mysticalagriculture:chunk:2
+Tier 4 Mob Chunk - mysticalagriculture:chunk:3
+Tier 5 Mob Chunk - mysticalagriculture:chunk:4
+Experience Chunk - mysticalagriculture:chunk:5
+Zombie Chunk - mysticalagriculture:chunk:6
+Pig Chunk - mysticalagriculture:chunk:7
+Chicken Chunk - mysticalagriculture:chunk:8
+Cow Chunk - mysticalagriculture:chunk:9
+Sheep Chunk - mysticalagriculture:chunk:10
+Slime Chunk - mysticalagriculture:chunk:11
+Skeleton Chunk - mysticalagriculture:chunk:12
+Creeper Chunk - mysticalagriculture:chunk:13
+Spider Chunk - mysticalagriculture:chunk:14
+Rabbit Chunk - mysticalagriculture:chunk:15
+Guardian Chunk - mysticalagriculture:chunk:16
+Blaze Chunk - mysticalagriculture:chunk:17
+Ghast Chunk - mysticalagriculture:chunk:18
+Enderman Chunk - mysticalagriculture:chunk:19
+Wither Skeleton Chunk - mysticalagriculture:chunk:20
+Blizz Chunk - mysticalagriculture:chunk:21
+Blitz Chunk - mysticalagriculture:chunk:22
+Basalz Chunk - mysticalagriculture:chunk:23
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Stone Essence - mysticalagriculture:stone_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Dirt Essence - mysticalagriculture:dirt_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nature Essence - mysticalagriculture:nature_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Wood Essence - mysticalagriculture:wood_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Water Essence - mysticalagriculture:water_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ice Essence - mysticalagriculture:ice_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Fire Essence - mysticalagriculture:fire_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Dye Essence - mysticalagriculture:dye_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nether Essence - mysticalagriculture:nether_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Coal Essence - mysticalagriculture:coal_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Iron Essence - mysticalagriculture:iron_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nether Quartz Essence - mysticalagriculture:nether_quartz_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Glowstone Essence - mysticalagriculture:glowstone_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Redstone Essence - mysticalagriculture:redstone_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Obsidian Essence - mysticalagriculture:obsidian_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Gold Essence - mysticalagriculture:gold_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Lapis Lazuli Essence - mysticalagriculture:lapis_lazuli_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. End Essence - mysticalagriculture:end_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Experience Essence - mysticalagriculture:experience_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Diamond Essence - mysticalagriculture:diamond_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Emerald Essence - mysticalagriculture:emerald_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Zombie Essence - mysticalagriculture:zombie_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Pig Essence - mysticalagriculture:pig_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Chicken Essence - mysticalagriculture:chicken_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Cow Essence - mysticalagriculture:cow_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Sheep Essence - mysticalagriculture:sheep_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Slime Essence - mysticalagriculture:slime_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Skeleton Essence - mysticalagriculture:skeleton_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Creeper Essence - mysticalagriculture:creeper_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Spider Essence - mysticalagriculture:spider_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Rabbit Essence - mysticalagriculture:rabbit_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Guardian Essence - mysticalagriculture:guardian_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Blaze Essence - mysticalagriculture:blaze_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ghast Essence - mysticalagriculture:ghast_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Enderman Essence - mysticalagriculture:enderman_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Wither Skeleton Essence - mysticalagriculture:wither_skeleton_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Silicon Essence - mysticalagriculture:silicon_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Sulfur Essence - mysticalagriculture:sulfur_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Aluminum Essence - mysticalagriculture:aluminum_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Copper Essence - mysticalagriculture:copper_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Saltpeter Essence - mysticalagriculture:saltpeter_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Tin Essence - mysticalagriculture:tin_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Bronze Essence - mysticalagriculture:bronze_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Brass Essence - mysticalagriculture:brass_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Silver Essence - mysticalagriculture:silver_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Lead Essence - mysticalagriculture:lead_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Graphite Essence - mysticalagriculture:graphite_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Steel Essence - mysticalagriculture:steel_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nickel Essence - mysticalagriculture:nickel_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Constantan Essence - mysticalagriculture:constantan_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Electrum Essence - mysticalagriculture:electrum_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Invar Essence - mysticalagriculture:invar_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Mithril Essence - mysticalagriculture:mithril_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Uranium Essence - mysticalagriculture:uranium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Platinum Essence - mysticalagriculture:platinum_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Iridium Essence - mysticalagriculture:iridium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Amber Essence - mysticalagriculture:amber_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Blizz Essence - mysticalagriculture:blizz_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Blitz Essence - mysticalagriculture:blitz_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Basalz Essence - mysticalagriculture:basalz_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Signalum Essence - mysticalagriculture:signalum_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Lumium Essence - mysticalagriculture:lumium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Enderium Essence - mysticalagriculture:enderium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Fluxed Electrum Essence - mysticalagriculture:fluxed_electrum_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Aluminum Brass Essence - mysticalagriculture:aluminum_brass_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Knightslime Essence - mysticalagriculture:knightslime_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ardite Essence - mysticalagriculture:ardite_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Cobalt Essence - mysticalagriculture:cobalt_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Manyullyn Essence - mysticalagriculture:manyullyn_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Grains of Infinity Essence - mysticalagriculture:grains_of_infinity_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Electrical Steel Essence - mysticalagriculture:electrical_steel_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Redstone Alloy Essence - mysticalagriculture:redstone_alloy_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Conductive Iron Essence - mysticalagriculture:conductive_iron_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Soularium Essence - mysticalagriculture:soularium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Dark Steel Essence - mysticalagriculture:dark_steel_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Pulsating Iron Essence - mysticalagriculture:pulsating_iron_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Energetic Alloy Essence - mysticalagriculture:energetic_alloy_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Vibrant Alloy Essence - mysticalagriculture:vibrant_alloy_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. End Steel Essence - mysticalagriculture:end_steel_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Mystical Flower Essence - mysticalagriculture:mystical_flower_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Manasteel Essence - mysticalagriculture:manasteel_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Elementium Essence - mysticalagriculture:elementium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Terrasteel Essence - mysticalagriculture:terrasteel_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Quicksilver Essence - mysticalagriculture:quicksilver_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Thaumium Essence - mysticalagriculture:thaumium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Void Metal Essence - mysticalagriculture:void_metal_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Osmium Essence - mysticalagriculture:osmium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Glowstone Ingot Essence - mysticalagriculture:glowstone_ingot_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Refined Obsidian Essence - mysticalagriculture:refined_obsidian_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Marble Essence - mysticalagriculture:marble_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Limestone Essence - mysticalagriculture:limestone_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Basalt Essence - mysticalagriculture:basalt_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Steeleaf Essence - mysticalagriculture:steeleaf_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ironwood Essence - mysticalagriculture:ironwood_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Knightmetal Essence - mysticalagriculture:knightmetal_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Fiery Ingot Essence - mysticalagriculture:fiery_ingot_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Thorium Essence - mysticalagriculture:thorium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Boron Essence - mysticalagriculture:boron_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Lithium Essence - mysticalagriculture:lithium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Magnesium Essence - mysticalagriculture:magnesium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Aquamarine Essence - mysticalagriculture:aquamarine_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Starmetal Essence - mysticalagriculture:starmetal_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Rock Crystal Essence - mysticalagriculture:rock_crystal_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ender Biotite Essence - mysticalagriculture:ender_biotite_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Dilithium Essence - mysticalagriculture:dilithium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Tritanium Essence - mysticalagriculture:tritanium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Draconium Essence - mysticalagriculture:draconium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Yellorium Essence - mysticalagriculture:yellorium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Sky Stone Essence - mysticalagriculture:sky_stone_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Certus Quartz Essence - mysticalagriculture:certus_quartz_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Fluix Essence - mysticalagriculture:fluix_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Seeds - mysticalagriculture:tier1_inferium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Seeds - mysticalagriculture:tier2_inferium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Seeds - mysticalagriculture:tier3_inferium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Seeds - mysticalagriculture:tier4_inferium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Seeds - mysticalagriculture:tier5_inferium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Stone Seeds - mysticalagriculture:stone_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Dirt Seeds - mysticalagriculture:dirt_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nature Seeds - mysticalagriculture:nature_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Wood Seeds - mysticalagriculture:wood_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Water Seeds - mysticalagriculture:water_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ice Seeds - mysticalagriculture:ice_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Fire Seeds - mysticalagriculture:fire_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Dye Seeds - mysticalagriculture:dye_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nether Seeds - mysticalagriculture:nether_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Coal Seeds - mysticalagriculture:coal_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Iron Seeds - mysticalagriculture:iron_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nether Quartz Seeds - mysticalagriculture:nether_quartz_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Glowstone Seeds - mysticalagriculture:glowstone_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Redstone Seeds - mysticalagriculture:redstone_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Obsidian Seeds - mysticalagriculture:obsidian_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Gold Seeds - mysticalagriculture:gold_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Lapis Lazuli Seeds - mysticalagriculture:lapis_lazuli_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. End Seeds - mysticalagriculture:end_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Experience Seeds - mysticalagriculture:experience_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Diamond Seeds - mysticalagriculture:diamond_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Emerald Seeds - mysticalagriculture:emerald_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Zombie Seeds - mysticalagriculture:zombie_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Pig Seeds - mysticalagriculture:pig_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Chicken Seeds - mysticalagriculture:chicken_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Cow Seeds - mysticalagriculture:cow_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Sheep Seeds - mysticalagriculture:sheep_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Slime Seeds - mysticalagriculture:slime_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Skeleton Seeds - mysticalagriculture:skeleton_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Creeper Seeds - mysticalagriculture:creeper_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Spider Seeds - mysticalagriculture:spider_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Rabbit Seeds - mysticalagriculture:rabbit_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Guardian Seeds - mysticalagriculture:guardian_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Blaze Seeds - mysticalagriculture:blaze_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ghast Seeds - mysticalagriculture:ghast_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Enderman Seeds - mysticalagriculture:enderman_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Wither Skeleton Seeds - mysticalagriculture:wither_skeleton_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Silicon Seeds - mysticalagriculture:silicon_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Sulfur Seeds - mysticalagriculture:sulfur_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Aluminum Seeds - mysticalagriculture:aluminum_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Copper Seeds - mysticalagriculture:copper_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Saltpeter Seeds - mysticalagriculture:saltpeter_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Tin Seeds - mysticalagriculture:tin_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Bronze Seeds - mysticalagriculture:bronze_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Brass Seeds - mysticalagriculture:brass_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Silver Seeds - mysticalagriculture:silver_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Lead Seeds - mysticalagriculture:lead_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Graphite Seeds - mysticalagriculture:graphite_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Steel Seeds - mysticalagriculture:steel_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nickel Seeds - mysticalagriculture:nickel_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Constantan Seeds - mysticalagriculture:constantan_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Electrum Seeds - mysticalagriculture:electrum_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Invar Seeds - mysticalagriculture:invar_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Mithril Seeds - mysticalagriculture:mithril_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Uranium Seeds - mysticalagriculture:uranium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Platinum Seeds - mysticalagriculture:platinum_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Iridium Seeds - mysticalagriculture:iridium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Amber Seeds - mysticalagriculture:amber_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Blizz Seeds - mysticalagriculture:blizz_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Blitz Seeds - mysticalagriculture:blitz_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Basalz Seeds - mysticalagriculture:basalz_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Signalum Seeds - mysticalagriculture:signalum_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Lumium Seeds - mysticalagriculture:lumium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Enderium Seeds - mysticalagriculture:enderium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Fluxed Electrum Seeds - mysticalagriculture:fluxed_electrum_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Aluminum Brass Seeds - mysticalagriculture:aluminum_brass_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Knightslime Seeds - mysticalagriculture:knightslime_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ardite Seeds - mysticalagriculture:ardite_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Cobalt Seeds - mysticalagriculture:cobalt_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Manyullyn Seeds - mysticalagriculture:manyullyn_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Grains of Infinity Seeds - mysticalagriculture:grains_of_infinity_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Electrical Steel Seeds - mysticalagriculture:electrical_steel_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Redstone Alloy Seeds - mysticalagriculture:redstone_alloy_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Conductive Iron Seeds - mysticalagriculture:conductive_iron_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Soularium Seeds - mysticalagriculture:soularium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Dark Steel Seeds - mysticalagriculture:dark_steel_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Pulsating Iron Seeds - mysticalagriculture:pulsating_iron_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Energetic Alloy Seeds - mysticalagriculture:energetic_alloy_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Vibrant Alloy Seeds - mysticalagriculture:vibrant_alloy_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. End Steel Seeds - mysticalagriculture:end_steel_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Mystical Flower Seeds - mysticalagriculture:mystical_flower_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Manasteel Seeds - mysticalagriculture:manasteel_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Elementium Seeds - mysticalagriculture:elementium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Terrasteel Seeds - mysticalagriculture:terrasteel_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Quicksilver Seeds - mysticalagriculture:quicksilver_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Thaumium Seeds - mysticalagriculture:thaumium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Void Metal Seeds - mysticalagriculture:void_metal_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Osmium Seeds - mysticalagriculture:osmium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Glowstone Ingot Seeds - mysticalagriculture:glowstone_ingot_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Refined Obsidian Seeds - mysticalagriculture:refined_obsidian_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Marble Seeds - mysticalagriculture:marble_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Limestone Seeds - mysticalagriculture:limestone_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Basalt Seeds - mysticalagriculture:basalt_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Steeleaf Seeds - mysticalagriculture:steeleaf_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ironwood Seeds - mysticalagriculture:ironwood_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Knightmetal Seeds - mysticalagriculture:knightmetal_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Fiery Ingot Seeds - mysticalagriculture:fiery_ingot_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Thorium Seeds - mysticalagriculture:thorium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Boron Seeds - mysticalagriculture:boron_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Lithium Seeds - mysticalagriculture:lithium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Magnesium Seeds - mysticalagriculture:magnesium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Aquamarine Seeds - mysticalagriculture:aquamarine_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Starmetal Seeds - mysticalagriculture:starmetal_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Rock Crystal Seeds - mysticalagriculture:rock_crystal_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Ender Biotite Seeds - mysticalagriculture:ender_biotite_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Dilithium Seeds - mysticalagriculture:dilithium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Tritanium Seeds - mysticalagriculture:tritanium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Draconium Seeds - mysticalagriculture:draconium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Yellorium Seeds - mysticalagriculture:yellorium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Sky Stone Seeds - mysticalagriculture:sky_stone_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Certus Quartz Seeds - mysticalagriculture:certus_quartz_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Fluix Seeds - mysticalagriculture:fluix_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. 15 entries: 
+Inferium Tool Core - mysticalagriculture:gear:0
+Prudentium Tool Core - mysticalagriculture:gear:1
+Intermedium Tool Core - mysticalagriculture:gear:2
+Superium Tool Core - mysticalagriculture:gear:3
+Supremium Tool Core - mysticalagriculture:gear:4
+Inferium Armor Core - mysticalagriculture:gear:5
+Prudentium Armor Core - mysticalagriculture:gear:6
+Intermedium Armor Core - mysticalagriculture:gear:7
+Superium Armor Core - mysticalagriculture:gear:8
+Supremium Armor Core - mysticalagriculture:gear:9
+Inferium Arrow Head - mysticalagriculture:gear:15
+Prudentium Arrow Head - mysticalagriculture:gear:16
+Intermedium Arrow Head - mysticalagriculture:gear:17
+Superium Arrow Head - mysticalagriculture:gear:18
+Supremium Arrow Head - mysticalagriculture:gear:19
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. 21 entries: 
+Blank Charm - mysticalagriculture:charm:0
+Charm: Night Vision - mysticalagriculture:charm:1
+Charm: Absorption - mysticalagriculture:charm:2
+Charm: Wither Resistance - mysticalagriculture:charm:3
+Charm: Antivenom - mysticalagriculture:charm:4
+Charm: Fire Resistance - mysticalagriculture:charm:5
+Charm: Resistance - mysticalagriculture:charm:6
+Charm: Strength - mysticalagriculture:charm:7
+Charm: Strength 2 - mysticalagriculture:charm:8
+Charm: Speed - mysticalagriculture:charm:9
+Charm: Jump Boost - mysticalagriculture:charm:10
+Charm: Miner's Vision - mysticalagriculture:charm:11
+Charm: Rainbow - mysticalagriculture:charm:12
+Charm: Quick Draw - mysticalagriculture:charm:13
+Charm: Triple Shot - mysticalagriculture:charm:14
+Charm: Mining AOE - mysticalagriculture:charm:15
+Charm: Attack AOE - mysticalagriculture:charm:16
+Charm: Tilling AOE - mysticalagriculture:charm:17
+Charm: Shearing AOE - mysticalagriculture:charm:18
+Charm: Reaping AOE - mysticalagriculture:charm:19
+Charm: Scything AOE - mysticalagriculture:charm:20
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Arrow - mysticalagriculture:inferium_arrow:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Arrow - mysticalagriculture:prudentium_arrow:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Arrow - mysticalagriculture:intermedium_arrow:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Arrow - mysticalagriculture:superium_arrow:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Arrow - mysticalagriculture:supremium_arrow:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Sword - mysticalagriculture:inferium_sword:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Pickaxe - mysticalagriculture:inferium_pickaxe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Shovel - mysticalagriculture:inferium_shovel:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Axe - mysticalagriculture:inferium_axe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Hoe - mysticalagriculture:inferium_hoe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Shears - mysticalagriculture:inferium_shears:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Bow - mysticalagriculture:inferium_bow:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Sickle - mysticalagriculture:inferium_sickle:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Scythe - mysticalagriculture:inferium_scythe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Fishing Rod - mysticalagriculture:inferium_fishing_rod:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Sword - mysticalagriculture:prudentium_sword:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Pickaxe - mysticalagriculture:prudentium_pickaxe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Shovel - mysticalagriculture:prudentium_shovel:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Axe - mysticalagriculture:prudentium_axe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Hoe - mysticalagriculture:prudentium_hoe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Shears - mysticalagriculture:prudentium_shears:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Bow - mysticalagriculture:prudentium_bow:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Sickle - mysticalagriculture:prudentium_sickle:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Scythe - mysticalagriculture:prudentium_scythe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Fishing Rod - mysticalagriculture:prudentium_fishing_rod:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Sword - mysticalagriculture:intermedium_sword:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Pickaxe - mysticalagriculture:intermedium_pickaxe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Shovel - mysticalagriculture:intermedium_shovel:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Axe - mysticalagriculture:intermedium_axe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Hoe - mysticalagriculture:intermedium_hoe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Shears - mysticalagriculture:intermedium_shears:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Bow - mysticalagriculture:intermedium_bow:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Sickle - mysticalagriculture:intermedium_sickle:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Scythe - mysticalagriculture:intermedium_scythe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Fishing Rod - mysticalagriculture:intermedium_fishing_rod:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Sword - mysticalagriculture:superium_sword:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Pickaxe - mysticalagriculture:superium_pickaxe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Shovel - mysticalagriculture:superium_shovel:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Axe - mysticalagriculture:superium_axe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Hoe - mysticalagriculture:superium_hoe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Shears - mysticalagriculture:superium_shears:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Bow - mysticalagriculture:superium_bow:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Sickle - mysticalagriculture:superium_sickle:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Scythe - mysticalagriculture:superium_scythe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Fishing Rod - mysticalagriculture:superium_fishing_rod:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Sword - mysticalagriculture:supremium_sword:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Pickaxe - mysticalagriculture:supremium_pickaxe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Shovel - mysticalagriculture:supremium_shovel:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Axe - mysticalagriculture:supremium_axe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Hoe - mysticalagriculture:supremium_hoe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Shears - mysticalagriculture:supremium_shears:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Bow - mysticalagriculture:supremium_bow:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Sickle - mysticalagriculture:supremium_sickle:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Scythe - mysticalagriculture:supremium_scythe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Fishing Rod - mysticalagriculture:supremium_fishing_rod:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Helmet - mysticalagriculture:inferium_helmet:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Chestplate - mysticalagriculture:inferium_chestplate:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Leggings - mysticalagriculture:inferium_leggings:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Boots - mysticalagriculture:inferium_boots:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Helmet - mysticalagriculture:prudentium_helmet:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Chestplate - mysticalagriculture:prudentium_chestplate:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Leggings - mysticalagriculture:prudentium_leggings:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Boots - mysticalagriculture:prudentium_boots:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Helmet - mysticalagriculture:intermedium_helmet:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Chestplate - mysticalagriculture:intermedium_chestplate:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Leggings - mysticalagriculture:intermedium_leggings:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Boots - mysticalagriculture:intermedium_boots:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Helmet - mysticalagriculture:superium_helmet:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Chestplate - mysticalagriculture:superium_chestplate:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Leggings - mysticalagriculture:superium_leggings:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Boots - mysticalagriculture:superium_boots:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Helmet - mysticalagriculture:supremium_helmet:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Chestplate - mysticalagriculture:supremium_chestplate:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Leggings - mysticalagriculture:supremium_leggings:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Boots - mysticalagriculture:supremium_boots:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Infusion Crystal - matc:inferiumcrystal:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Infusion Crystal - matc:prudentiumcrystal:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Infusion Crystal - matc:intermediumcrystal:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Infusion Crystal - matc:superiumcrystal:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Infusion Crystal - matc:supremiumcrystal:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. 3 entries: 
+Block of Insanium Essence - mysticalagradditions:storage:0
+Block of Insanium - mysticalagradditions:storage:1
+Block of Insanium Coal - mysticalagradditions:storage:2
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. 4 entries: 
+Nether Star Crux - mysticalagradditions:special:0
+Dragon Egg Crux - mysticalagradditions:special:1
+Awakened Draconium Crux - mysticalagradditions:special:4
+Neutronium Crux - mysticalagradditions:special:5
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Tinkering Table - mysticalagradditions:tinkering_table:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Tier 6 Inferium Crop - mysticalagradditions:tier6_inferium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nether Star Crop - mysticalagradditions:nether_star_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Dragon Egg Crop - mysticalagradditions:dragon_egg_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Awakened Draconium Crop - mysticalagradditions:awakened_draconium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Neutronium Crop - mysticalagradditions:neutronium_crop:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. 6 entries: 
+Insanium Essence - mysticalagradditions:insanium:0
+Tier 6 Crafting Seed - mysticalagradditions:insanium:1
+Insanium Ingot - mysticalagradditions:insanium:2
+Insanium Nugget - mysticalagradditions:insanium:3
+Tier 6 Mob Chunk - mysticalagradditions:insanium:4
+Insanium Coal - mysticalagradditions:insanium:5
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. 5 entries: 
+Nether Star Shard - mysticalagradditions:stuff:0
+Withering Soul - mysticalagradditions:stuff:1
+Dragon Egg Chunk - mysticalagradditions:stuff:2
+Dragon Scale - mysticalagradditions:stuff:3
+Creative Essence - mysticalagradditions:stuff:69
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nether Star Essence - mysticalagradditions:nether_star_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Dragon Egg Essence - mysticalagradditions:dragon_egg_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Awakened Draconium Essence - mysticalagradditions:awakened_draconium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Neutronium Essence - mysticalagradditions:neutronium_essence:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Seeds - mysticalagradditions:tier6_inferium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Nether Star Seeds - mysticalagradditions:nether_star_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Dragon Egg Seeds - mysticalagradditions:dragon_egg_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Awakened Draconium Seeds - mysticalagradditions:awakened_draconium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Neutronium Seeds - mysticalagradditions:neutronium_seeds:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Charm: Mining AOE - mysticalagradditions:charm:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Inferium Paxel - mysticalagradditions:inferium_paxel:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Prudentium Paxel - mysticalagradditions:prudentium_paxel:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Intermedium Paxel - mysticalagradditions:intermedium_paxel:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Superium Paxel - mysticalagradditions:superium_paxel:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage mystical. Supremium Paxel - mysticalagradditions:supremium_paxel:0
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: mods/projectE.zs}
+[INITIALIZATION][CLIENT][INFO] Restring tooltips that start with "EMC:" to stage projecte
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Axe - projecte:item.pe_dm_axe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Shovel - projecte:item.pe_dm_shovel:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Hoe - projecte:item.pe_dm_hoe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Shears - projecte:item.pe_dm_shears:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Hammer - projecte:item.pe_dm_hammer:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Pickaxe - projecte:item.pe_rm_pick:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Axe - projecte:item.pe_rm_axe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Shovel - projecte:item.pe_rm_shovel:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Sword - projecte:item.pe_rm_sword:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Chest - projecte:alchemical_chest:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Energy Collector MK1 - projecte:collector_mk1:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Energy Collector MK2 - projecte:collector_mk2:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Energy Collector MK3 - projecte:collector_mk3:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Energy Condenser - projecte:condenser_mk1:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Energy Condenser MK2 - projecte:condenser_mk2:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Furnace - projecte:dm_furnace:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Pedestal - projecte:dm_pedestal:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Coal Block - projecte:fuel_block:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Mobius Fuel Block - projecte:fuel_block:1
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Aeternalis Fuel Block - projecte:fuel_block:2
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Nova Catalyst - projecte:nova_catalyst:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Nova Cataclysm - projecte:nova_cataclysm:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Anti-Matter Relay MK1 - projecte:relay_mk1:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Anti-Matter Relay MK2 - projecte:relay_mk2:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Anti-Matter Relay MK3 - projecte:relay_mk3:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Furnace - projecte:rm_furnace:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Transmutation Table - projecte:transmutation_table:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Sword - projecte:item.pe_dm_sword:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (White) - projecte:item.pe_alchemical_bag:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Klein Star Ein - projecte:item.pe_klein_star:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Pickaxe - projecte:item.pe_dm_pick:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Helmet - projecte:item.pe_dm_armor_3:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Chestplate - projecte:item.pe_dm_armor_2:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Leggings - projecte:item.pe_dm_armor_1:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Boots - projecte:item.pe_dm_armor_0:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Helmet - projecte:item.pe_rm_armor_3:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Chestplate - projecte:item.pe_rm_armor_2:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Leggings - projecte:item.pe_rm_armor_1:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Boots - projecte:item.pe_rm_armor_0:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Gem Helmet - projecte:item.pe_gem_armor_3:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Orange) - projecte:item.pe_alchemical_bag:1
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Magenta) - projecte:item.pe_alchemical_bag:2
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Light Blue) - projecte:item.pe_alchemical_bag:3
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Yellow) - projecte:item.pe_alchemical_bag:4
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Lime) - projecte:item.pe_alchemical_bag:5
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Pink) - projecte:item.pe_alchemical_bag:6
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Gray) - projecte:item.pe_alchemical_bag:7
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Light Gray) - projecte:item.pe_alchemical_bag:8
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Cyan) - projecte:item.pe_alchemical_bag:9
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Purple) - projecte:item.pe_alchemical_bag:10
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Blue) - projecte:item.pe_alchemical_bag:11
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Brown) - projecte:item.pe_alchemical_bag:12
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Green) - projecte:item.pe_alchemical_bag:13
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Red) - projecte:item.pe_alchemical_bag:14
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Black) - projecte:item.pe_alchemical_bag:15
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Klein Star Zwei - projecte:item.pe_klein_star:1
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Klein Star Drei - projecte:item.pe_klein_star:2
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Klein Star Vier - projecte:item.pe_klein_star:3
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Klein Star Sphere - projecte:item.pe_klein_star:4
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Klein Star Omega - projecte:item.pe_klein_star:5
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Hoe - projecte:item.pe_rm_hoe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Shears - projecte:item.pe_rm_shears:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Hammer - projecte:item.pe_rm_hammer:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Katar - projecte:item.pe_rm_katar:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Morningstar - projecte:item.pe_rm_morning_star:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Helmet - projecte:item.pe_dm_armor_3:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Chestplate - projecte:item.pe_dm_armor_2:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Leggings - projecte:item.pe_dm_armor_1:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Boots - projecte:item.pe_dm_armor_0:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Helmet - projecte:item.pe_rm_armor_3:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Chestplate - projecte:item.pe_rm_armor_2:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Leggings - projecte:item.pe_rm_armor_1:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Boots - projecte:item.pe_rm_armor_0:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Gem Helmet - projecte:item.pe_gem_armor_3:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Orange) - projecte:item.pe_alchemical_bag:1
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Magenta) - projecte:item.pe_alchemical_bag:2
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Light Blue) - projecte:item.pe_alchemical_bag:3
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Yellow) - projecte:item.pe_alchemical_bag:4
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Lime) - projecte:item.pe_alchemical_bag:5
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Pink) - projecte:item.pe_alchemical_bag:6
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Gray) - projecte:item.pe_alchemical_bag:7
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Light Gray) - projecte:item.pe_alchemical_bag:8
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Cyan) - projecte:item.pe_alchemical_bag:9
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Purple) - projecte:item.pe_alchemical_bag:10
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Blue) - projecte:item.pe_alchemical_bag:11
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Brown) - projecte:item.pe_alchemical_bag:12
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Green) - projecte:item.pe_alchemical_bag:13
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Red) - projecte:item.pe_alchemical_bag:14
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Alchemical Bag (Black) - projecte:item.pe_alchemical_bag:15
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Klein Star Zwei - projecte:item.pe_klein_star:1
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Klein Star Drei - projecte:item.pe_klein_star:2
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Klein Star Vier - projecte:item.pe_klein_star:3
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Klein Star Sphere - projecte:item.pe_klein_star:4
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Klein Star Omega - projecte:item.pe_klein_star:5
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Hoe - projecte:item.pe_rm_hoe:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Shears - projecte:item.pe_rm_shears:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Hammer - projecte:item.pe_rm_hammer:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Katar - projecte:item.pe_rm_katar:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Morningstar - projecte:item.pe_rm_morning_star:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Gem Chestplate - projecte:item.pe_gem_armor_2:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Gem Leggings - projecte:item.pe_gem_armor_1:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Gem Boots - projecte:item.pe_gem_armor_0:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Watch of Flowing Time - projecte:item.pe_time_watch:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Divining Rod (low) - projecte:item.pe_divining_rod_1:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Divining Rod (medium) - projecte:item.pe_divining_rod_2:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Divining Rod (high) - projecte:item.pe_divining_rod_3:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Mercurial Eye - projecte:item.pe_mercurial_eye:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Lava Orb - projecte:item.pe_lava_orb:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Destruction Catalyst - projecte:item.pe_destruction_catalyst:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Hyperkinetic Lens - projecte:item.pe_hyperkinetic_lens:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Catalytic Lens - projecte:item.pe_catalitic_lens:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Tome of Knowledge - projecte:item.pe_tome:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Transmutation Tablet - projecte:item.pe_transmutation_tablet:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Book of the Alchemist [WIP] - projecte:item.pe_manual:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Water Orb - projecte:item.pe_water_orb:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Randomizer Orb - projecte:item.pe_randomizer:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Explosive Lens - projecte:item.pe_lens_explosive:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. item.pe_fire_projectile.name - projecte:item.pe_fire_projectile:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. item.pe_wind_projectile.name - projecte:item.pe_wind_projectile:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Ring of Arcana - projecte:item.pe_arcana_ring:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Ring of Arcana - projecte:item.pe_arcana_ring:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Ring of Arcana - projecte:item.pe_arcana_ring:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Basic Energy EMC Link - projectex:energy_link:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Personal EMC Link - projectex:personal_link:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Refined EMC Link - projectex:refined_link:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Compressed Refined EMC Link - projectex:compressed_refined_link:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. 16 entries: 
+Basic Collector [MK1] - projectex:collector:0
+Dark Matter Collector [MK2] - projectex:collector:1
+Red Matter Collector [MK3] - projectex:collector:2
+Magenta Matter Collector [MK4] - projectex:collector:3
+Pink Matter Collector [MK5] - projectex:collector:4
+Purple Matter Collector [MK6] - projectex:collector:5
+Violet Matter Collector [MK7] - projectex:collector:6
+Blue Matter Collector [MK8] - projectex:collector:7
+Cyan Matter Collector [MK9] - projectex:collector:8
+Green Matter Collector [MK10] - projectex:collector:9
+Lime Matter Collector [MK11] - projectex:collector:10
+Yellow Matter Collector [MK12] - projectex:collector:11
+Orange Matter Collector [MK13] - projectex:collector:12
+White Matter Collector [MK14] - projectex:collector:13
+Fading Matter Collector [MK15] - projectex:collector:14
+The Final Collector - projectex:collector:15
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. 16 entries: 
+Basic Relay [MK1] - projectex:relay:0
+Dark Matter Relay [MK2] - projectex:relay:1
+Red Matter Relay [MK3] - projectex:relay:2
+Magenta Matter Relay [MK4] - projectex:relay:3
+Pink Matter Relay [MK5] - projectex:relay:4
+Purple Matter Relay [MK6] - projectex:relay:5
+Violet Matter Relay [MK7] - projectex:relay:6
+Blue Matter Relay [MK8] - projectex:relay:7
+Cyan Matter Relay [MK9] - projectex:relay:8
+Green Matter Relay [MK10] - projectex:relay:9
+Lime Matter Relay [MK11] - projectex:relay:10
+Yellow Matter Relay [MK12] - projectex:relay:11
+Orange Matter Relay [MK13] - projectex:relay:12
+White Matter Relay [MK14] - projectex:relay:13
+Fading Matter Relay [MK15] - projectex:relay:14
+The Final Relay - projectex:relay:15
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. 16 entries: 
+Basic Collector [MK1] - projectex:compressed_collector:0
+Dark Matter Collector [MK2] - projectex:compressed_collector:1
+Red Matter Collector [MK3] - projectex:compressed_collector:2
+Magenta Matter Collector [MK4] - projectex:compressed_collector:3
+Pink Matter Collector [MK5] - projectex:compressed_collector:4
+Purple Matter Collector [MK6] - projectex:compressed_collector:5
+Violet Matter Collector [MK7] - projectex:compressed_collector:6
+Blue Matter Collector [MK8] - projectex:compressed_collector:7
+Cyan Matter Collector [MK9] - projectex:compressed_collector:8
+Green Matter Collector [MK10] - projectex:compressed_collector:9
+Lime Matter Collector [MK11] - projectex:compressed_collector:10
+Yellow Matter Collector [MK12] - projectex:compressed_collector:11
+Orange Matter Collector [MK13] - projectex:compressed_collector:12
+White Matter Collector [MK14] - projectex:compressed_collector:13
+Fading Matter Collector [MK15] - projectex:compressed_collector:14
+The Final Collector - projectex:compressed_collector:15
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. 16 entries: 
+Basic Power Flower Bonsai Pot [MK1] - projectex:power_flower:0
+Dark Matter Power Flower Bonsai Pot [MK2] - projectex:power_flower:1
+Red Matter Power Flower Bonsai Pot [MK3] - projectex:power_flower:2
+Magenta Matter Power Flower Bonsai Pot [MK4] - projectex:power_flower:3
+Pink Matter Power Flower Bonsai Pot [MK5] - projectex:power_flower:4
+Purple Matter Power Flower Bonsai Pot [MK6] - projectex:power_flower:5
+Violet Matter Power Flower Bonsai Pot [MK7] - projectex:power_flower:6
+Blue Matter Power Flower Bonsai Pot [MK8] - projectex:power_flower:7
+Cyan Matter Power Flower Bonsai Pot [MK9] - projectex:power_flower:8
+Green Matter Power Flower Bonsai Pot [MK10] - projectex:power_flower:9
+Lime Matter Power Flower Bonsai Pot [MK11] - projectex:power_flower:10
+Yellow Matter Power Flower Bonsai Pot [MK12] - projectex:power_flower:11
+Orange Matter Power Flower Bonsai Pot [MK13] - projectex:power_flower:12
+White Matter Power Flower Bonsai Pot [MK14] - projectex:power_flower:13
+Fading Matter Power Flower Bonsai Pot [MK15] - projectex:power_flower:14
+The Final Power Flower Bonsai Pot - projectex:power_flower:15
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Stone Transmutation Table - projectex:stone_table:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Alchemy Table - projectex:alchemy_table:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Magnum Star Ein - projectex:magnum_star_ein:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Magnum Star Zwei - projectex:magnum_star_zwei:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Magnum Star Drei - projectex:magnum_star_drei:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Magnum Star Vier - projectex:magnum_star_vier:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Magnum Star Sphere - projectex:magnum_star_sphere:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Magnum Star Omega - projectex:magnum_star_omega:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Colossal Star Ein - projectex:colossal_star_ein:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Colossal Star Zwei - projectex:colossal_star_zwei:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Colossal Star Drei - projectex:colossal_star_drei:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Colossal Star Vier - projectex:colossal_star_vier:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Colossal Star Sphere - projectex:colossal_star_sphere:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Colossal Star Omega - projectex:colossal_star_omega:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. 12 entries: 
+Magenta Matter - projectex:matter:0
+Pink Matter - projectex:matter:1
+Purple Matter - projectex:matter:2
+Violet Matter - projectex:matter:3
+Blue Matter - projectex:matter:4
+Cyan Matter - projectex:matter:5
+Green Matter - projectex:matter:6
+Lime Matter - projectex:matter:7
+Yellow Matter - projectex:matter:8
+Orange Matter - projectex:matter:9
+White Matter - projectex:matter:10
+Fading Matter - projectex:matter:11
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. The Final Star Shard - projectex:final_star_shard:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. The Final Star - projectex:final_star:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Knowledge Sharing Book - projectex:knowledge_sharing_book:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projectex. Arcane Transmutation Tablet - projectex:arcane_tablet:0
+[INITIALIZATION][CLIENT][INFO] Removing item stage for Personal EMC Link - projectex:personal_link:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Personal EMC Link - projectex:personal_link:0
+[INITIALIZATION][CLIENT][INFO] Removing item stage for Basic Collector [MK1] - projectex:collector:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Basic Collector [MK1] - projectex:collector:0
+[INITIALIZATION][CLIENT][INFO] Removing item stage for Dark Matter Collector [MK2] - projectex:collector:1
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Collector [MK2] - projectex:collector:1
+[INITIALIZATION][CLIENT][INFO] Removing item stage for Red Matter Collector [MK3] - projectex:collector:2
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Collector [MK3] - projectex:collector:2
+[INITIALIZATION][CLIENT][INFO] Removing item stage for Basic Relay [MK1] - projectex:relay:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Basic Relay [MK1] - projectex:relay:0
+[INITIALIZATION][CLIENT][INFO] Removing item stage for Dark Matter Relay [MK2] - projectex:relay:1
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Dark Matter Relay [MK2] - projectex:relay:1
+[INITIALIZATION][CLIENT][INFO] Removing item stage for Red Matter Relay [MK3] - projectex:relay:2
+[INITIALIZATION][CLIENT][INFO] Adding to item stage projecte. Red Matter Relay [MK3] - projectex:relay:2
+[INITIALIZATION][CLIENT][INFO] Removing item stage for Energy Collector MK1 - projecte:collector_mk1:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage hide. Energy Collector MK1 - projecte:collector_mk1:0
+[INITIALIZATION][CLIENT][INFO] Removing item stage for Energy Collector MK2 - projecte:collector_mk2:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage hide. Energy Collector MK2 - projecte:collector_mk2:0
+[INITIALIZATION][CLIENT][INFO] Removing item stage for Energy Collector MK3 - projecte:collector_mk3:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage hide. Energy Collector MK3 - projecte:collector_mk3:0
+[INITIALIZATION][CLIENT][INFO] Removing item stage for Anti-Matter Relay MK1 - projecte:relay_mk1:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage hide. Anti-Matter Relay MK1 - projecte:relay_mk1:0
+[INITIALIZATION][CLIENT][INFO] Removing item stage for Anti-Matter Relay MK2 - projecte:relay_mk2:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage hide. Anti-Matter Relay MK2 - projecte:relay_mk2:0
+[INITIALIZATION][CLIENT][INFO] Removing item stage for Anti-Matter Relay MK3 - projecte:relay_mk3:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage hide. Anti-Matter Relay MK3 - projecte:relay_mk3:0
+[INITIALIZATION][CLIENT][INFO] Removing item stage for Watch of Flowing Time - projecte:item.pe_time_watch:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage hide. Watch of Flowing Time - projecte:item.pe_time_watch:0
+[INITIALIZATION][CLIENT][INFO] Removing item stage for Illuminati Pet - inventorypets:illuminati_pet:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage hide. Illuminati Pet - inventorypets:illuminati_pet:0
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: mods/roost.zs}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Roost - roost:roost:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken Breeder - roost:breeder:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Roost Collector - roost:collector:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken Catcher - roost:catcher:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. 47 entries: 
+Chicken - roost:chicken:0{Chicken:"minecraft:chicken"}
+Ink Black Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:blackchicken",Gain:1,Strength:1}
+Lapis Blue Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:bluechicken",Gain:1,Strength:1}
+Flint Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:flintchicken",Gain:1,Strength:1}
+Cactus Green Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:greenchicken",Gain:1,Strength:1}
+Log Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:logchicken",Gain:1,Strength:1}
+Nether Quartz Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:quartzchicken",Gain:1,Strength:1}
+Red Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:redchicken",Gain:1,Strength:1}
+Sand Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:sandchicken",Gain:1,Strength:1}
+Smart Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:smartchicken",Gain:1,Strength:1}
+Bone White Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:whitechicken",Gain:1,Strength:1}
+Yellow Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:yellowchicken",Gain:1,Strength:1}
+Soul Sand Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:soulsandchicken",Gain:1,Strength:1}
+Cocoa Brown Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:brownchicken",Gain:1,Strength:1}
+Coal Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:coalchicken",Gain:1,Strength:1}
+Cyan Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:cyanchicken",Gain:1,Strength:1}
+Glowstone Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:glowstonechicken",Gain:1,Strength:1}
+Gray Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:graychicken",Gain:1,Strength:1}
+Gunpowder Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:gunpowderchicken",Gain:1,Strength:1}
+Iron Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:ironchicken",Gain:1,Strength:1}
+Light Blue Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:lightbluechicken",Gain:1,Strength:1}
+Lime Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:limechicken",Gain:1,Strength:1}
+Orange Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:orangechicken",Gain:1,Strength:1}
+Pink Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:pinkchicken",Gain:1,Strength:1}
+Purple Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:purplechicken",Gain:1,Strength:1}
+Redstone Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:redstonechicken",Gain:1,Strength:1}
+Snowball Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:snowballchicken",Gain:1,Strength:1}
+String Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:stringchicken",Gain:1,Strength:1}
+Clay Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:claychicken",Gain:1,Strength:1}
+Glass Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:glasschicken",Gain:1,Strength:1}
+Gold Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:goldchicken",Gain:1,Strength:1}
+Lava Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:lavachicken",Gain:1,Strength:1}
+Leather Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:leatherchicken",Gain:1,Strength:1}
+Magenta Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:magentachicken",Gain:1,Strength:1}
+Nether Wart Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:netherwartchicken",Gain:1,Strength:1}
+Light Gray Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:silverdyechicken",Gain:1,Strength:1}
+Water Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:waterchicken",Gain:1,Strength:1}
+Blaze Rod Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:blazechicken",Gain:1,Strength:1}
+Diamond Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:diamondchicken",Gain:1,Strength:1}
+Slime Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:slimechicken",Gain:1,Strength:1}
+Obsidian Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:obsidianchicken",Gain:1,Strength:1}
+Prismarine Shard Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:pshardchicken",Gain:1,Strength:1}
+Emerald Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:emeraldchicken",Gain:1,Strength:1}
+Ender Pearl Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:enderchicken",Gain:1,Strength:1}
+Ghast Tear Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:ghastchicken",Gain:1,Strength:1}
+Magma Cream Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:magmachicken",Gain:1,Strength:1}
+Prismarine Crystal Chicken - roost:chicken:0{Growth:1,Chicken:"chickens:pcrystalchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. 16 entries: 
+Bone White Chicken Egg - chickens:colored_egg:15
+Lapis Blue Chicken Egg - chickens:colored_egg:4
+Ink Black Chicken Egg - chickens:colored_egg:0
+Magenta Chicken Egg - chickens:colored_egg:13
+Lime Chicken Egg - chickens:colored_egg:10
+Yellow Chicken Egg - chickens:colored_egg:11
+Purple Chicken Egg - chickens:colored_egg:5
+Cactus Green Chicken Egg - chickens:colored_egg:2
+Light Gray Chicken Egg - chickens:colored_egg:7
+Light Blue Chicken Egg - chickens:colored_egg:12
+Cyan Chicken Egg - chickens:colored_egg:6
+Red Chicken Egg - chickens:colored_egg:1
+Pink Chicken Egg - chickens:colored_egg:9
+Orange Chicken Egg - chickens:colored_egg:14
+Gray Chicken Egg - chickens:colored_egg:8
+Cocoa Brown Chicken Egg - chickens:colored_egg:3
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. 46 entries: 
+Bone White Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:whitechicken"}}
+Lapis Blue Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:bluechicken"}}
+Gunpowder Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:gunpowderchicken"}}
+Water Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:waterchicken"}}
+Ink Black Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:blackchicken"}}
+Iron Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:ironchicken"}}
+Blaze Rod Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:blazechicken"}}
+Log Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:logchicken"}}
+Emerald Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:emeraldchicken"}}
+String Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:stringchicken"}}
+Magenta Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:magentachicken"}}
+Lime Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:limechicken"}}
+Prismarine Shard Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:pshardchicken"}}
+Prismarine Crystal Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:pcrystalchicken"}}
+Snowball Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:snowballchicken"}}
+Yellow Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:yellowchicken"}}
+Purple Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:purplechicken"}}
+Cactus Green Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:greenchicken"}}
+Nether Quartz Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:quartzchicken"}}
+Sand Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:sandchicken"}}
+Light Gray Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:silverdyechicken"}}
+Soul Sand Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:soulsandchicken"}}
+Light Blue Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:lightbluechicken"}}
+Glass Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:glasschicken"}}
+Diamond Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:diamondchicken"}}
+Obsidian Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:obsidianchicken"}}
+Ghast Tear Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:ghastchicken"}}
+Redstone Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:redstonechicken"}}
+Flint Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:flintchicken"}}
+Cyan Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:cyanchicken"}}
+Red Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:redchicken"}}
+Ender Pearl Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:enderchicken"}}
+Leather Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:leatherchicken"}}
+Nether Wart Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:netherwartchicken"}}
+Pink Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:pinkchicken"}}
+Glowstone Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:glowstonechicken"}}
+Coal Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:coalchicken"}}
+Lava Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:lavachicken"}}
+Smart Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:smartchicken"}}
+Orange Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:orangechicken"}}
+Clay Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:claychicken"}}
+Slime Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:slimechicken"}}
+Magma Cream Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:magmachicken"}}
+Gray Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:graychicken"}}
+Cocoa Brown Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:brownchicken"}}
+Gold Chicken - chickens:spawn_egg:0{ChickenType:{id:"chickens:goldchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. 2 entries: 
+Water Egg - chickens:liquid_egg:0
+Lava Egg - chickens:liquid_egg:1
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken Analyzer - chickens:analyzer:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Henhouse - chickens:henhouse:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Acacia Henhouse - chickens:henhouse_acacia:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Birch Henhouse - chickens:henhouse_birch:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Dark Oak Henhouse - chickens:henhouse_dark_oak:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Jungle Henhouse - chickens:henhouse_jungle:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Spruce Henhouse - chickens:henhouse_spruce:0
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:signalumchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:xpchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:slagchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:enderiumchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:sulfurchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:electrumchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:basalzrodchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:funwaychick"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:copperchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:silverorechicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:chickenosto"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:platinumchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:boopbeepchick"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:cinnabarchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:iridiumchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:tinchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:blitzrodchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:saltpeterchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:mramericanchick"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:blizzrodchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:lumiumchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:nickelchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:enderiumchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:invarchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:mithrilchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:bronzechicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:richslagchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:aluminumchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:steelchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:leadchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:constantanchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:blueslime"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:bloodslime"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:purpleslime"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:manyullynchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:knightslimechicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:arditechicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:pigironchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:magmaslime"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:cobaltchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:saltchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:osmiumchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:siliconchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:electricalsteelchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:magicalwoodchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:demonmetalchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:redstonecrystalchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:soulariumchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:pulsatingironchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:conductiveironchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:vibrantalloychicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:amberchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:stoneburntchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:moonstonechicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:rubberchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:lunarreactivedustchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:darksteelchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:energeticalloychicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:redstonealloychicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:yelloriumchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:blutoniumchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:draconiumchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:graphitechicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:uraniumchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:draconiumawakenedchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:cyanitechicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:brasschicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:garnetchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:amethystchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:elementiumchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:terrasteelchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:tungstenchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. null - chickens:spawn_egg:0{ChickenType:{id:"morechickens:manasteelchicken"}}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:tungstenchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:manasteelchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:terrasteelchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:elementiumchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:signalumchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:cinnabarchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:funwaychick",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:lumiumchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:mramericanchick",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:blitzrodchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:blizzrodchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:xpchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:enderiumchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:saltpeterchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:bronzechicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:nickelchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:aluminumchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:copperchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:invarchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:sulfurchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:steelchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:slagchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:silverorechicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:leadchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:constantanchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:boopbeepchick",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:basalzrodchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:tinchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:richslagchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:platinumchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:electrumchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:chickenosto",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:iridiumchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:mithrilchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:pigironchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:purpleslime",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:magmaslime",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:knightslimechicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:cobaltchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:manyullynchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:arditechicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:blueslime",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:bloodslime",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:osmiumchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:saltchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:siliconchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:conductiveironchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:rubberchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:amberchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:energeticalloychicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:soulariumchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:darksteelchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:electricalsteelchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:redstonealloychicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:pulsatingironchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:vibrantalloychicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:magicalwoodchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:redstonecrystalchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:lunarreactivedustchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:stoneburntchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:moonstonechicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:demonmetalchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:draconiumchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:draconiumawakenedchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:blutoniumchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:cyanitechicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:yelloriumchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:uraniumchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:graphitechicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:brasschicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:garnetchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage roost. Chicken - roost:chicken:0{Growth:1,Chicken:"morechickens:amethystchicken",Gain:1,Strength:1}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ore.zs}
+[INITIALIZATION][CLIENT][INFO] Adding a replacement for stage tier4. avaritia:extreme_crafting_table will become minecraft:emerald_block
+[INITIALIZATION][CLIENT][INFO] Adding a replacement for stage tier4. extendedcrafting:table_ultimate will become minecraft:emerald_block
+[INITIALIZATION][CLIENT][INFO] Adding a replacement for stage tier4. avaritia:neutron_collector[active=false,facing=north] will become minecraft:emerald_block
+[INITIALIZATION][CLIENT][INFO] Adding a replacement for stage tier4. avaritia:neutronium_compressor[active=false,facing=north] will become minecraft:emerald_block
+[INITIALIZATION][CLIENT][INFO] Adding a replacement for stage tier3. extendedcrafting:table_elite will become minecraft:diamond_block
+[INITIALIZATION][CLIENT][INFO] Adding a replacement for stage tier2. extendedcrafting:table_advanced will become minecraft:gold_block
+[INITIALIZATION][CLIENT][INFO] Adding a replacement for stage tier1. extendedcrafting:table_basic will become minecraft:iron_block
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 872ms

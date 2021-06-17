@@ -1,0 +1,36 @@
+{
+	title: "First Steps",
+	x: 1.5d,
+	y: 0.0d,
+	description: "Collect Stone",
+	text: [
+		""
+	],
+	dependencies: [
+		"ef6449ea"
+	],
+	tasks: [{
+		uid: "edbfd1fd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "cobblestone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any cobblestone"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "c2e76a9f",
+		type: "item",
+		item: "harvestcraft:applejuiceitem",
+		count: 4
+	}]
+}

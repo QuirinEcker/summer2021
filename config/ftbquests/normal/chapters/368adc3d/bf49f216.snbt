@@ -1,0 +1,23 @@
+{
+	title: "Don't kill the Dragon",
+	x: 1.5d,
+	y: 1.5d,
+	description: "Just go into the End",
+	text: [
+		""
+	],
+	dependencies: [
+		"dc1c2c3e"
+	],
+	tasks: [{
+		uid: "7c7ae046",
+		type: "dimension",
+		dim: 1
+	}],
+	rewards: [{
+		uid: "9b299ec5",
+		type: "item",
+		item: "minecraft:end_crystal",
+		count: 4
+	}]
+}

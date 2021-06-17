@@ -1,0 +1,24 @@
+{
+	title: "Don't let dem teleport away",
+	x: 5.5d,
+	y: 1.5d,
+	description: "Kill 10 Enderman",
+	text: [
+		""
+	],
+	dependencies: [
+		"e5b8b224"
+	],
+	tasks: [{
+		uid: "58650e06",
+		type: "kill",
+		entity: "minecraft:enderman",
+		value: 10L
+	}],
+	rewards: [{
+		uid: "ad9c51c0",
+		type: "item",
+		item: "minecraft:ender_pearl",
+		count: 5
+	}]
+}

@@ -1,0 +1,42 @@
+{
+	title: "Ore Dublication... to late?",
+	x: 12.0d,
+	y: 0.0d,
+	description: "Craft a Smelter and a Crusher",
+	text: [
+		""
+	],
+	dependencies: [
+		"bbb9e764"
+	],
+	tasks: [{
+		uid: "af5f061b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock",
+			Damage: 10s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6699e348",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "328cfe47",
+		type: "item",
+		item: "matteroverdrive:energy_pack",
+		count: 16
+	}]
+}

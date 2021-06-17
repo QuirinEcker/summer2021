@@ -1,0 +1,25 @@
+{
+	title: "So you know Da Wae?",
+	icon: "waystones:waystone",
+	x: 4.5d,
+	y: 0.0d,
+	description: "Activate a Waystone",
+	text: [
+		""
+	],
+	dependencies: [
+		"ced8cf57"
+	],
+	tasks: [{
+		uid: "c1b8ddb6",
+		type: "stat",
+		stat: "stat.waystones:waystonesActivated",
+		value: 1
+	}],
+	rewards: [{
+		uid: "caf1e097",
+		type: "item",
+		item: "waystones:warp_scroll",
+		count: 4
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	title: "New stuff to do",
+	icon: "extendedcrafting:table_basic",
+	x: 0.0d,
+	y: 0.0d,
+	description: "Unlock Tier One",
+	text: [
+		""
+	],
+	dependencies: [
+		"5c0452dc"
+	],
+	tasks: [{
+		uid: "bbf65202",
+		type: "gamestage",
+		stage: "tier1"
+	}]
+}

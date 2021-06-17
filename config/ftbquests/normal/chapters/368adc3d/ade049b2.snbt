@@ -1,0 +1,25 @@
+{
+	title: "Tier Four",
+	x: 0.0d,
+	y: 3.0d,
+	shape: "rsquare",
+	description: "Get an Elite Crafting Table OR an Exteme Crafting Table",
+	text: [
+		""
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "f6ee0f66",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_ultimate"
+		}]
+	},
+	{
+		uid: "bff43bae",
+		type: "item",
+		items: [{
+			item: "avaritia:extreme_crafting_table"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	title: "Tier One",
+	icon: "extendedcrafting:table_basic",
+	x: -0.0d,
+	y: -1.5d,
+	shape: "rsquare",
+	description: "Start",
+	text: [
+		""
+	]
+}

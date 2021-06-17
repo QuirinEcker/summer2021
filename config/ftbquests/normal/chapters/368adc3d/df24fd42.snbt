@@ -1,0 +1,68 @@
+{
+	title: "Constructive Criticism",
+	x: 1.5d,
+	y: 0.0d,
+	description: "Craft these things",
+	text: [
+		""
+	],
+	dependencies: [
+		"e820aedf"
+	],
+	tasks: [{
+		uid: "1399f398",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3110135f",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:planks",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}],
+		consume_items: false,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0d5ad417",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f6018c6a",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "enderio:block_alloy",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

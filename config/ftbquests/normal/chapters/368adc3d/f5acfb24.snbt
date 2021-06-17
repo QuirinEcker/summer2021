@@ -1,0 +1,23 @@
+{
+	title: "Highway to Hell",
+	x: 3.0d,
+	y: -1.5d,
+	description: "Visit the Nether",
+	text: [
+		""
+	],
+	dependencies: [
+		"d5ba8ba6"
+	],
+	tasks: [{
+		uid: "60a068ae",
+		type: "dimension",
+		dim: -1
+	}],
+	rewards: [{
+		uid: "74bf3f73",
+		type: "item",
+		item: "minecraft:soul_sand",
+		count: 4
+	}]
+}

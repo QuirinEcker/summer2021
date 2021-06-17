@@ -1,0 +1,35 @@
+{
+	title: "Burn with me",
+	x: 4.5d,
+	y: -1.5d,
+	description: "Pay 16000mb of lava with a tank",
+	text: [
+		""
+	],
+	dependencies: [
+		"f5acfb24"
+	],
+	tasks: [{
+		uid: "dfd729b1",
+		type: "fluid",
+		fluid: "lava",
+		amount: 16000
+	},
+	{
+		uid: "fa4c36d5",
+		type: "item",
+		items: [{
+			item: "openblocks:tank"
+		}]
+	}],
+	rewards: [{
+		uid: "4c105006",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:lava_bucket"
+		}
+	}]
+}

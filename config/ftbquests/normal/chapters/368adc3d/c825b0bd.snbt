@@ -1,0 +1,25 @@
+{
+	title: "Electrobob's Wizardry",
+	x: 18.0d,
+	y: 0.0d,
+	description: "Use this to start your magical ways",
+	text: [
+		""
+	],
+	dependencies: [
+		"56421a84"
+	],
+	tasks: [{
+		uid: "a666b2eb",
+		type: "item",
+		items: [{
+			item: "ebwizardry:arcane_workbench"
+		}]
+	}],
+	rewards: [{
+		uid: "7ec30bfb",
+		type: "item",
+		item: "ebwizardry:magic_crystal",
+		count: 64
+	}]
+}

@@ -1,0 +1,50 @@
+{
+	title: "Let it rise",
+	x: 13.5d,
+	y: 0.0d,
+	description: "Craft a Market and all Fertilizers",
+	text: [
+		""
+	],
+	dependencies: [
+		"0d7018a8"
+	],
+	tasks: [{
+		uid: "5f84f294",
+		type: "item",
+		items: [{
+			item: "farmingforblockheads:market"
+		}]
+	},
+	{
+		uid: "7fcbab0c",
+		type: "item",
+		items: [{
+			item: "farmingforblockheads:fertilizer"
+		}]
+	},
+	{
+		uid: "ac6785a9",
+		type: "item",
+		items: [{
+			item: "farmingforblockheads:fertilizer 1 1"
+		}]
+	},
+	{
+		uid: "947ee026",
+		type: "item",
+		items: [{
+			item: "farmingforblockheads:fertilizer 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "981ddeca",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:diamond_hoe"
+		}
+	}]
+}

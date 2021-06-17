@@ -1,0 +1,19 @@
+{
+	title: "Items don't drop out",
+	x: 1.0d,
+	y: -1.5d,
+	description: "Craft a Crafting Station",
+	text: [
+		""
+	],
+	dependencies: [
+		"ef6449ea"
+	],
+	tasks: [{
+		uid: "bea6153f",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables"
+		}]
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "SIMP",
+	x: 9.0d,
+	y: 0.0d,
+	description: "Craft a Heart Container",
+	text: [
+		""
+	],
+	dependencies: [
+		"d6383322"
+	],
+	tasks: [{
+		uid: "08375948",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:heart_food"
+		}]
+	}],
+	rewards: [{
+		uid: "04d8cc42",
+		type: "item",
+		item: "inspirations:edibles",
+		count: 16
+	}]
+}

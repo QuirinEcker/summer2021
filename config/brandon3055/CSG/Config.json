@@ -1,0 +1,9 @@
+{
+  "inventory": {
+    "0:18": "pouchofunknown:pouch,1,0,{Inventory:[]}",
+    "0:27": "akashictome:tome,1,0,{\"akashictome:is_morphing\":1b,\"akashictome:data\":{tconstruct:{id:\"tconstruct:book\",Count:1b,tag:{\"akashictome:definedMod\":\"tconstruct\",mantle:{book:{page:\"\"}}},Damage:0s},theoneprobe:{id:\"theoneprobe:probenote\",Count:1b,tag:{\"akashictome:definedMod\":\"theoneprobe\"},Damage:0s},astralsorcery:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:itemjournal\",Count:1b,tag:{\"akashictome:definedMod\":\"astralsorcery\"},Damage:0s},advancementbook:{id:\"advancementbook:advancement_book\",Count:1b,tag:{\"akashictome:displayName\":\"Advancement Book\",\"akashictome:definedMod\":\"advancementbook\",\"akashictome:is_morphing\":1b,display:{Name:\"§rAkashic Tome (§aAdvancement Book§r)\"}},Damage:0s},twilightforest:{id:\"patchouli:guide_book\",Count:1b,tag:{\"akashictome:definedMod\":\"twilightforest\",\"patchouli:book\":\"twilightforest:guide\"},Damage:0s},cookingforblockheads1:{id:\"cookingforblockheads:recipe_book\",Count:1b,tag:{\"akashictome:definedMod\":\"cookingforblockheads1\"},Damage:2s},openblocks:{id:\"openblocks:info_book\",Count:1b,tag:{\"akashictome:definedMod\":\"openblocks\"},Damage:0s},cookingforblockheads:{id:\"cookingforblockheads:recipe_book\",Count:1b,tag:{\"akashictome:definedMod\":\"cookingforblockheads\"},Damage:1s},cyclicmagic:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"guideapi:cyclicmagic-guide\",Count:1b,tag:{\"akashictome:definedMod\":\"cyclicmagic\",G-API_Category_Page:0},Damage:0s},bigreactors:{id:\"patchouli:guide_book\",Count:1b,tag:{\"akashictome:definedMod\":\"bigreactors\",\"patchouli:book\":\"bigreactors:erguide\"},Damage:0s}}}",
+    "0:1": "minecraft:wooden_pickaxe",
+    "0:0": "ftbquests:book",
+    "0:8": "harvestcraft:applejuiceitem,16"
+  }
+}

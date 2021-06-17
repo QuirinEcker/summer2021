@@ -1,0 +1,15 @@
+{
+	title: "Tier Two",
+	icon: "extendedcrafting:table_advanced",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	description: "Complete Tier One",
+	text: [
+		""
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"5c0452dc"
+	]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Smeltery",
+	x: 3.0d,
+	y: 0.0d,
+	description: "Craft 64 seared bricks",
+	text: [
+		""
+	],
+	dependencies: [
+		"df24fd42"
+	],
+	tasks: [{
+		uid: "67657cd2",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "be002f05",
+		type: "item",
+		item: "tconstruct:seared 1 3",
+		count: 16
+	}]
+}

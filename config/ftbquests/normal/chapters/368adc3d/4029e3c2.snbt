@@ -1,0 +1,24 @@
+{
+	title: "Save XP",
+	x: 21.0d,
+	y: 0.0d,
+	description: "Craft it",
+	text: [
+		""
+	],
+	dependencies: [
+		"a7d3f5c9"
+	],
+	tasks: [{
+		uid: "9698cecd",
+		type: "item",
+		items: [{
+			item: "enderio:block_experience_obelisk"
+		}]
+	}],
+	rewards: [{
+		uid: "2206039b",
+		type: "xp_levels",
+		xp_levels: 30
+	}]
+}

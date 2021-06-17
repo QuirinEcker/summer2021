@@ -1,0 +1,41 @@
+{
+	title: "PVE practice",
+	x: 4.0d,
+	y: 1.5d,
+	description: "Kill 10 each",
+	text: [
+		""
+	],
+	dependencies: [
+		"408b8954"
+	],
+	tasks: [{
+		uid: "d695e89f",
+		type: "kill",
+		entity: "minecraft:zombie",
+		value: 10L
+	},
+	{
+		uid: "e7e67389",
+		type: "kill",
+		entity: "minecraft:skeleton",
+		value: 10L
+	},
+	{
+		uid: "6803a765",
+		type: "kill",
+		entity: "minecraft:creeper",
+		value: 10L
+	},
+	{
+		uid: "c1ea521c",
+		type: "kill",
+		entity: "minecraft:spider",
+		value: 10L
+	}],
+	rewards: [{
+		uid: "18d155bd",
+		type: "random",
+		table: 0
+	}]
+}

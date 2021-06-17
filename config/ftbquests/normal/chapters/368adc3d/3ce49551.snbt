@@ -1,0 +1,24 @@
+{
+	title: "One star to rule them all",
+	icon: "minecraft:nether_star",
+	x: 9.0d,
+	y: -1.5d,
+	description: "Kill 1 Wither",
+	text: [
+		""
+	],
+	dependencies: [
+		"bf004feb"
+	],
+	tasks: [{
+		uid: "63f47df2",
+		type: "kill",
+		entity: "minecraft:wither",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "1b08417a",
+		type: "item",
+		item: "futuremc:wither_rose"
+	}]
+}

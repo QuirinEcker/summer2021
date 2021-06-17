@@ -1,0 +1,10 @@
+{
+	icon: "extendedcrafting:table_ultimate",
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "4730d0f7",
+		type: "gamestage",
+		stage: "tier4"
+	}]
+}

@@ -1,0 +1,46 @@
+{
+	x: 10.5d,
+	y: 0.0d,
+	description: "Craft a Deep Learner, insert the Zombie Data Model and kill 6 Zombies",
+	text: [
+		""
+	],
+	dependencies: [
+		"00dc7ca4"
+	],
+	tasks: [{
+		uid: "54e9c210",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:deep_learner"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ff0f0aef",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:data_model_zombie"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "57590fab",
+		type: "kill",
+		entity: "minecraft:zombie",
+		value: 6L
+	}],
+	rewards: [{
+		uid: "ace4d019",
+		type: "item",
+		item: "deepmoblearning:data_model_blank"
+	}]
+}

@@ -1,0 +1,40 @@
+{
+	title: "Two Hit Kill",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "minecraft:diamond_sword"
+	},
+	x: 7.5d,
+	y: -1.5d,
+	description: "Deal 10 damage at once",
+	text: [
+		""
+	],
+	dependencies: [
+		"f2a40da6"
+	],
+	tasks: [{
+		uid: "19a4fb37",
+		type: "stat",
+		stat: "stat.damageDealt",
+		value: 10
+	}],
+	rewards: [{
+		uid: "f610a647",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "quark:ancient_tome",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 5s,
+					id: 16s
+				}]
+			}
+		}
+	}]
+}

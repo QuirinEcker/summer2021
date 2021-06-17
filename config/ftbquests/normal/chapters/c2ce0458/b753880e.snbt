@@ -1,0 +1,13 @@
+{
+	icon: "extendedcrafting:table_advanced",
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"3fd3a902"
+	],
+	tasks: [{
+		uid: "faaaae15",
+		type: "gamestage",
+		stage: "tier2"
+	}]
+}

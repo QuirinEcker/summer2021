@@ -1,0 +1,33 @@
+{
+	title: "Start Playing",
+	x: 0.0d,
+	y: 0.0d,
+	description: "Collect Wood",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "f59b4ca6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "75e8628f",
+		type: "item",
+		item: "minecraft:torch",
+		count: 16
+	}]
+}

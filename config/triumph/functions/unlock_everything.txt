@@ -1,0 +1,10 @@
+summon minecraft:fireworks_rocket ~ ~ ~
+gamestage add @p tier1
+gamestage add @p tier2
+gamestage add @p tier3
+gamestage add @p tier4
+
+gamestage add @p projecte
+gamestage add @p bonsai
+gamestage add @p roost
+gamestage add @p mystical

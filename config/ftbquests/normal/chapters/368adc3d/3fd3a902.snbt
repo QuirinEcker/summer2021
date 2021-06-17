@@ -1,0 +1,24 @@
+{
+	title: "Unlock Tier Two",
+	x: 24.0d,
+	y: 0.0d,
+	description: "Get an Advanced Crafting Table",
+	text: [
+		""
+	],
+	dependencies: [
+		"be42a331"
+	],
+	tasks: [{
+		uid: "8aebe6ae",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_advanced"
+		}]
+	}],
+	rewards: [{
+		uid: "2e7cde4c",
+		type: "random",
+		table: 0
+	}]
+}

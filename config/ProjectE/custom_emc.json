@@ -1,0 +1,4520 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:bread|0",
+      "emc": 256
+    },
+        {
+      "item": "biomesoplenty:berries|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:zucchiniitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:radishitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:whitemushroomitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:leekitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:sweetpotatoitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:tomatoitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:garlicitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:rhubarbitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:blackberryitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:soursopitem|0",
+      "emc": 54
+    },
+    {
+      "item": "harvestcraft:pamsoursop|0",
+      "emc": 72
+    },
+    {
+      "item": "tconstruct:edible|1",
+      "emc": 64
+    },
+    {
+      "item": "quark:crystal|4",
+      "emc": 8
+    },
+    {
+      "item": "quark:crystal|0",
+      "emc": 8
+    },
+    {
+      "item": "quark:crystal|1",
+      "emc": 8
+    },
+    {
+      "item": "quark:crystal|2",
+      "emc": 8
+    },
+    {
+      "item": "quark:crystal|3",
+      "emc": 8
+    },
+    {
+      "item": "quark:crystal|6",
+      "emc": 8
+    },
+    {
+      "item": "quark:crystal|7",
+      "emc": 8
+    },
+    {
+      "item": "quark:crystal|5",
+      "emc": 8
+    },
+    {
+      "item": "chisel:marble2|7",
+      "emc": 1
+    },
+    {
+      "item": "chisel:limestone2|7",
+      "emc": 1
+    },
+    {
+      "item": "quark:rune|10",
+      "emc": 512
+    },
+    {
+      "item": "quark:rune|9",
+      "emc": 512
+    },
+    {
+      "item": "quark:rune|7",
+      "emc": 512
+    },
+    {
+      "item": "quark:rune|15",
+      "emc": 512
+    },
+    {
+      "item": "quark:rune|13",
+      "emc": 512
+    },
+    {
+      "item": "quark:rune|12",
+      "emc": 512
+    },
+    {
+      "item": "quark:rune|6",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:gold_ore|0",
+      "emc": 6144
+    },
+    {
+      "item": "thermalfoundation:ore|1",
+      "emc": 768
+    },
+    {
+      "item": "thermalfoundation:ore|0",
+      "emc": 384
+    },
+    {
+      "item": "mekanism:oreblock|1",
+      "emc": 384
+    },
+    {
+      "item": "mekanism:oreblock|2",
+      "emc": 768
+    },
+    {
+      "item": "minecraft:iron_ore|0",
+      "emc": 768
+    },
+    {
+      "item": "thermalfoundation:ore|3",
+      "emc": 1536
+    },
+    {
+      "item": "mekanism:oreblock|0",
+      "emc": 1536
+    },
+    {
+      "item": "thermalfoundation:ore|2",
+      "emc": 1536
+    },
+    {
+      "item": "biomesoplenty:mushroom|4",
+      "emc": 32
+    },
+    {
+      "item": "fluxnetworks:flux|0",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:mushroom|0",
+      "emc": 80
+    },
+    {
+      "item": "mysticalagriculture:soulstone|1",
+      "emc": 2
+    },
+    {
+      "item": "tconstruct:ore|1",
+      "emc": 3072
+    },
+    {
+      "item": "biomesoplenty:mushroom|3",
+      "emc": 112
+    },
+    {
+      "item": "randomthings:lavacharm|0",
+      "emc": 1536
+    },
+    {
+      "item": "tconstruct:ore|0",
+      "emc": 3072
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 384
+    },
+    {
+      "item": "quark:black_ash|0",
+      "emc": 930
+    },
+    {
+      "item": "enderio:item_broken_spawner|0",
+      "emc": 8192
+    },
+    {
+      "item": "actuallyadditions:item_misc|20",
+      "emc": 2048
+    },
+    {
+      "item": "randomthings:magichood|0",
+      "emc": 128
+    },
+    {
+      "item": "biomesoplenty:mushroom|2",
+      "emc": 1728
+    },
+    {
+      "item": "randomthings:summoningpendulum|0",
+      "emc": 4096
+    },
+    {
+      "item": "rftoolsdim:dimlet_parcel|0",
+      "emc": 16384
+    },
+    {
+      "item": "tp:wub_gem|0",
+      "emc": 8192
+    },
+    {
+      "item": "harvestcraft:gigapickleseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "rftoolsdim:dimlet_type_controller|6",
+      "emc": 512
+    },
+    {
+      "item": "rftoolsdim:dimlet_control_circuit|0",
+      "emc": 512
+    },
+    {
+      "item": "rftoolsdim:dimlet_type_controller|8",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:ingot|3",
+      "emc": 896
+    },
+    {
+      "item": "harvestcraft:beanitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:nutmegitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:scallionitem|0",
+      "emc": 4
+    },
+    {
+      "item": "enderio:item_basic_capacitor|3",
+      "emc": 16384
+    },
+    {
+      "item": "biomesoplenty:plant_1|4",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:flower_0|4",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:pamhazelnut|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:hazelnutitem|0",
+      "emc": 4
+    },
+    {
+      "item": "tp:plump_peach|0",
+      "emc": 32
+    },
+    {
+      "item": "tp:plump_pear|0",
+      "emc": 32
+    },
+    {
+      "item": "extrautils2:endershard|0",
+      "emc": 128
+    },
+    {
+      "item": "harvestcraft:spiceleafitem|0",
+      "emc": 4
+    },
+    {
+      "item": "actuallyadditions:item_flax_seed|0",
+      "emc": 64
+    },
+    {
+      "item": "quark:tallow|0",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:flower_0|0",
+      "emc": 64
+    },
+    {
+      "item": "quark:glass_shards|0",
+      "emc": 1
+    },
+    {
+      "item": "harvestcraft:plumitem|0",
+      "emc": 4
+    },
+    {
+      "item": "thermalfoundation:ore|5",
+      "emc": 3072
+    },
+    {
+      "item": "randomthings:beans|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:calamarirawitem|0",
+      "emc": 64
+    },
+    {
+      "item": "actuallyadditions:block_black_lotus|0",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:gem|4",
+      "emc": 2048
+    },
+    {
+      "item": "biomesoplenty:gem|7",
+      "emc": 2048
+    },
+    {
+      "item": "biomesoplenty:gem|5",
+      "emc": 2048
+    },
+    {
+      "item": "biomesoplenty:gem|3",
+      "emc": 2048
+    },
+    {
+      "item": "biomesoplenty:gem|0",
+      "emc": 4096
+    },
+    {
+      "item": "mekanism:enrichedalloy|0",
+      "emc": 320
+    },
+    {
+      "item": "mekanism:controlcircuit|0",
+      "emc": 576
+    },
+    {
+      "item": "mekanism:reinforcedalloy|0",
+      "emc": 1344
+    },
+    {
+      "item": "thermalfoundation:material|770",
+      "emc": 16
+    },
+    {
+      "item": "mekanism:otherdust|5",
+      "emc": 1040
+    },
+    {
+      "item": "mekanism:ingot|0",
+      "emc": 1552
+    },
+    {
+      "item": "mekanism:otherdust|4",
+      "emc": 512
+    },
+    {
+      "item": "harvestcraft:cherryitem|0",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:mudball|0",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:plant_0|9",
+      "emc": 3
+    },
+    {
+      "item": "biomesoplenty:plant_0|12",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:double_plant|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:mulberryitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:greengrapeitem|0",
+      "emc": 4
+    },
+    {
+      "item": "tp:blueberry_berry|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:blueberryitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:milletitem|0",
+      "emc": 4
+    },
+    {
+      "item": "mekanism:salt|0",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:plant_1|8",
+      "emc": 8
+    },
+    {
+      "item": "harvestcraft:okraitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:jicamaitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:cranberryitem|0",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:waterlily|3",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:coral|4",
+      "emc": 2
+    },
+    {
+      "item": "biomesoplenty:flower_0|1",
+      "emc": 872
+    },
+    {
+      "item": "actuallyadditions:item_coffee_seed|0",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:plant_0|0",
+      "emc": 1
+    },
+    {
+      "item": "harvestcraft:asparagusitem|0",
+      "emc": 4
+    },
+    {
+      "item": "tp:blackberry_berry|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:waterchestnutitem|0",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:waterlily|2",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:naturecore|0",
+      "emc": 256
+    },
+    {
+      "item": "harvestcraft:juteitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:tealeafitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:turnipitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pamavocado|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:walnutitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:chestnutitem|0",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:stone_stairs|0",
+      "emc": 1
+    },
+    {
+      "item": "harvestcraft:strawberryitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:elderberryitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:amaranthitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:barleyitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:lettuceitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:peanutitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:bellpepperitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:cucumberitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:cornitem|0",
+      "emc": 4
+    },
+    {
+      "item": "tp:maloberry_berry|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:mustardseedsitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:chilipepperitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:parsnipitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:wintersquashitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:artichokeitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:flaxitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:onionitem|0",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:plant_0|1",
+      "emc": 1
+    },
+    {
+      "item": "tp:raspberry_berry|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:brusselsproutitem|0",
+      "emc": 4
+    },
+    {
+      "item": "randomthings:beans|2",
+      "emc": 1024
+    },
+    {
+      "item": "randomthings:specialchest|0",
+      "emc": 63
+    },
+    {
+      "item": "enderio:item_basic_capacitor|4",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:stone_brick_stairs|0",
+      "emc": 1
+    },
+    {
+      "item": "earthworks:block_slate_purple|0",
+      "emc": 1
+    },
+    {
+      "item": "earthworks:block_slate_green|0",
+      "emc": 1
+    },
+    {
+      "item": "quark:marble|0",
+      "emc": 1
+    },
+    {
+      "item": "harvestcraft:pamapple|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:pearitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:gooseberryitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:seaweeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:cottonitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:kaleitem|0",
+      "emc": 4
+    },
+    {
+      "item": "earthworks:block_slate|0",
+      "emc": 1
+    },
+    {
+      "item": "quark:ancient_tome|0",
+      "emc": 1024
+    },
+    {
+      "item": "harvestcraft:riceitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:avocadoitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:beetitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:caulifloweritem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:rutabagaitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pawpawitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pampawpaw|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:kohlrabiitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:quinoaitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:broccoliitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:oatsitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:huckleberryitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:raspberryitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:spinachitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:peasitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:sesameseedsitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:celeryitem|0",
+      "emc": 4
+    },
+    {
+      "item": "tp:dead_reed|0",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:stone_slab|0",
+      "emc": 1
+    },
+    {
+      "item": "harvestcraft:cactusfruitseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:milletseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:elderberryseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:eggplantseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:quinoaseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:curryleafseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:candleberryseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:huckleberryseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:lentilseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:kenafseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:jicamaseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:coffeeseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:agaveseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:kaleseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:ryeseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:gingerseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:cantaloupeseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:flaxseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:kohlrabiseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:cabbageseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:kiwiseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:soybeanseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:taroseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:cassavaseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pineappleseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:bambooshootseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:juteseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:sisalseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:chickpeaseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:amaranthseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:greengrapeseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:arrowrootseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:orangeitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pamorange|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:cabbageitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:persimmonitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pampersimmon|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:arrowrootitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:cassavaitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:figitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:cinnamonitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:chickpeaitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:soybeanitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:candleberryitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:bambooshootitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:papayaitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:bananaitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:durianitem|0",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:plant_0|3",
+      "emc": 1
+    },
+    {
+      "item": "harvestcraft:pecanitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pampecan|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:apricotitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:dragonfruititem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:coconutitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:sisalitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:eggplantitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pomegranateitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:vanillabeanitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:almonditem|0",
+      "emc": 4
+    },
+    {
+      "item": "mysticalagriculture:crafting|0",
+      "emc": 8
+    },
+    {
+      "item": "chisel:basalt2|7",
+      "emc": 1
+    },
+    {
+      "item": "earthworks:item_sand|0",
+      "emc": 1
+    },
+    {
+      "item": "harvestcraft:mulberryseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:grapeseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:potion|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:glass_pane|0",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:edible|2",
+      "emc": 256
+    },
+    {
+      "item": "tconstruct:slime_dirt|1",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:cast|0",
+      "emc": 4096
+    },
+    {
+      "item": "extrautils2:ingredients|10",
+      "emc": 3563
+    },
+    {
+      "item": "minecraft:skull|1",
+      "emc": 46356
+    },
+    {
+      "item": "tp:ender_dust|0",
+      "emc": 256
+    },
+    {
+      "item": "extrautils2:fakecopy|5",
+      "emc": 1
+    },
+    {
+      "item": "harvestcraft:maplesyrupitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:mangoitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:gingeritem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:peppercornitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pampeppercorn|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:stone_slab|5",
+      "emc": 1
+    },
+    {
+      "item": "tp:lava_block|0",
+      "emc": 128
+    },
+    {
+      "item": "randomthings:glowingmushroom|0",
+      "emc": 64
+    },
+    {
+      "item": "enderio:item_material|9",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:crystal_shard|0",
+      "emc": 2048
+    },
+    {
+      "item": "thermalfoundation:material|895",
+      "emc": 4096
+    },
+    {
+      "item": "extrautils2:enderlilly|0",
+      "emc": 64
+    },
+    {
+      "item": "quark:biotite|0",
+      "emc": 1024
+    },
+    {
+      "item": "mysticalagradditions:stuff|3",
+      "emc": 49152
+    },
+    {
+      "item": "tp:dragon_scale|0",
+      "emc": 49152
+    },
+    {
+      "item": "thermalfoundation:material|865",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|866",
+      "emc": 4096
+    },
+    {
+      "item": "thermalfoundation:material|1",
+      "emc": 2048
+    },
+    {
+      "item": "thermalfoundation:material|67",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|70",
+      "emc": 4096
+    },
+    {
+      "item": "thermalfoundation:material|103",
+      "emc": 2431
+    },
+    {
+      "item": "thermalfoundation:material|864",
+      "emc": 256
+    },
+    {
+      "item": "extrautils2:redorchid|0",
+      "emc": 1536
+    },
+    {
+      "item": "biomesoplenty:flower_0|9",
+      "emc": 96
+    },
+    {
+      "item": "earthworks:item_chalk|0",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:plant_1|9",
+      "emc": 16
+    },
+    {
+      "item": "dynamictrees:cactusseed|0",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:flower_1|3",
+      "emc": 12
+    },
+    {
+      "item": "biomesoplenty:dirt|9",
+      "emc": 1
+    },
+    {
+      "item": "quark:glass_shards|8",
+      "emc": 1
+    },
+    {
+      "item": "thermalfoundation:material|893",
+      "emc": 160
+    },
+    {
+      "item": "minecraft:bedrock|0",
+      "emc": 782000
+    },
+    {
+      "item": "thermalfoundation:ore|4",
+      "emc": 384
+    },
+    {
+      "item": "thermalfoundation:material|1024",
+      "emc": 432
+    },
+    {
+      "item": "thermalfoundation:material|2048",
+      "emc": 1536
+    },
+    {
+      "item": "thermalfoundation:material|2049",
+      "emc": 384
+    },
+    {
+      "item": "quark:pirate_hat|0",
+      "emc": 104
+    },
+    {
+      "item": "randomthings:spectrecoil_number|0",
+      "emc": 161803
+    },
+    {
+      "item": "minecraft:stone_slab|3",
+      "emc": 1
+    },
+    {
+      "item": "thermalfoundation:material|892",
+      "emc": 256
+    },
+    {
+      "item": "thermalfoundation:material|1025",
+      "emc": 417
+    },
+    {
+      "item": "quark:limestone|0",
+      "emc": 1
+    },
+    {
+      "item": "quark:basalt|0",
+      "emc": 1
+    },
+    {
+      "item": "xtones:base|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:fireworks|0",
+      "emc": 256
+    },
+    {
+      "item": "actuallyadditions:item_dust|5",
+      "emc": 256
+    },
+    {
+      "item": "actuallyadditions:item_dust|7",
+      "emc": 256
+    },
+    {
+      "item": "actuallyadditions:item_dust|4",
+      "emc": 864
+    },
+    {
+      "item": "actuallyadditions:item_dust|3",
+      "emc": 16384
+    },
+    {
+      "item": "actuallyadditions:item_dust|2",
+      "emc": 8192
+    },
+    {
+      "item": "actuallyadditions:item_misc|1",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:pitcherplant|0",
+      "emc": 4096
+    },
+    {
+      "item": "guideapi:cyclicmagic-guide|0",
+      "emc": 1
+    },
+    {
+      "item": "harvestcraft:cantaloupeitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:grapeitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:curryleafitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:taroitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:kiwiitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:coffeebeanitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pineappleitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:kenafitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:lemonitem|0",
+      "emc": 4
+    },
+    {
+      "item": "thermalfoundation:material|64",
+      "emc": 128
+    },
+    {
+      "item": "quark:soul_bead|0",
+      "emc": 480
+    },
+    {
+      "item": "quark:rune|8",
+      "emc": 512
+    },
+    {
+      "item": "enderio:item_material|10",
+      "emc": 20
+    },
+    {
+      "item": "mysticalagradditions:stuff|1",
+      "emc": 397897
+    },
+    {
+      "item": "quark:stone_basalt_bricks_stairs|0",
+      "emc": 1
+    },
+    {
+      "item": "quark:stone_basalt_bricks_slab|0",
+      "emc": 1
+    },
+    {
+      "item": "thermalfoundation:material|0",
+      "emc": 256
+    },
+    {
+      "item": "thermalfoundation:material|69",
+      "emc": 1024
+    },
+    {
+      "item": "thermalfoundation:material|98",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|100",
+      "emc": 575
+    },
+    {
+      "item": "thermalfoundation:material|65",
+      "emc": 256
+    },
+    {
+      "item": "thermalfoundation:material|99",
+      "emc": 160
+    },
+    {
+      "item": "environmentaltech:kyronite_crystal|0",
+      "emc": 10019
+    },
+    {
+      "item": "environmentaltech:pladium_crystal|0",
+      "emc": 21039
+    },
+    {
+      "item": "environmentaltech:ionite_crystal|0",
+      "emc": 44183
+    },
+    {
+      "item": "environmentaltech:aethium_crystal|0",
+      "emc": 88366
+    },
+    {
+      "item": "environmentaltech:lonsdaleite_crystal|0",
+      "emc": 88366
+    },
+    {
+      "item": "thermalfoundation:material|66",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|102",
+      "emc": 704
+    },
+    {
+      "item": "thermalfoundation:material|97",
+      "emc": 1280
+    },
+    {
+      "item": "thermalfoundation:material|101",
+      "emc": 383
+    },
+    {
+      "item": "minecraft:snow_layer|0",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_dirt|0",
+      "emc": 1
+    },
+    {
+      "item": "tp:water_block|0",
+      "emc": 128
+    },
+    {
+      "item": "tconstruct:spaghetti|0",
+      "emc": 96
+    },
+    {
+      "item": "environmentaltech:erodium_crystal|0",
+      "emc": 4554
+    },
+    {
+      "item": "tconstruct:slime_dirt|2",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:redstone_ore|0",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:ore|8",
+      "emc": 6144
+    },
+    {
+      "item": "biomesoplenty:gem_ore|1",
+      "emc": 6144
+    },
+    {
+      "item": "biomesoplenty:gem_ore|2",
+      "emc": 6144
+    },
+    {
+      "item": "thermalfoundation:material|136",
+      "emc": 2048
+    },
+    {
+      "item": "minecraft:coal_ore|0",
+      "emc": 384
+    },
+    {
+      "item": "thermalfoundation:ore|7",
+      "emc": 24576
+    },
+    {
+      "item": "thermalfoundation:material|71",
+      "emc": 8192
+    },
+    {
+      "item": "thermalfoundation:material|135",
+      "emc": 8192
+    },
+    {
+      "item": "minecraft:lapis_ore|0",
+      "emc": 8640
+    },
+    {
+      "item": "mysticalagriculture:inferium_ore|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:diamond_ore|0",
+      "emc": 24576
+    },
+    {
+      "item": "mysticalagriculture:prosperity_ore|0",
+      "emc": 256
+    },
+    {
+      "item": "biomesoplenty:gem_ore|5",
+      "emc": 4096
+    },
+    {
+      "item": "biomesoplenty:gem_ore|4",
+      "emc": 4096
+    },
+    {
+      "item": "minecraft:emerald_ore|0",
+      "emc": 49152
+    },
+    {
+      "item": "minecraft:quartz_ore|0",
+      "emc": 768
+    },
+    {
+      "item": "biomesoplenty:gem_ore|7",
+      "emc": 4096
+    },
+    {
+      "item": "thermalfoundation:ore_fluid|0",
+      "emc": 768
+    },
+    {
+      "item": "thermalfoundation:ore_fluid|1",
+      "emc": 768
+    },
+    {
+      "item": "biomesoplenty:gem_ore|3",
+      "emc": 4096
+    },
+    {
+      "item": "thermalfoundation:ore_fluid|2",
+      "emc": 480
+    },
+    {
+      "item": "biomesoplenty:gem_ore|6",
+      "emc": 4096
+    },
+    {
+      "item": "rftools:dimensional_shard_ore|0",
+      "emc": 20706
+    },
+    {
+      "item": "thermalfoundation:ore|6",
+      "emc": 12288
+    },
+    {
+      "item": "biomesoplenty:gem_ore|0",
+      "emc": 12288
+    },
+    {
+      "item": "thermalfoundation:ore_fluid|4",
+      "emc": 12288
+    },
+    {
+      "item": "biomesoplenty:dirt|0",
+      "emc": 2
+    },
+    {
+      "item": "thermalfoundation:ore_fluid|3",
+      "emc": 1152
+    },
+    {
+      "item": "thermalfoundation:material|894",
+      "emc": 384
+    },
+    {
+      "item": "environmentaltech:mica|0",
+      "emc": 512
+    },
+    {
+      "item": "draconicevolution:draconium_ore|0",
+      "emc": 65536
+    },
+    {
+      "item": "chisel:limestone|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:marble|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:marble|1",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|10",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|0",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|1",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|2",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|3",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|4",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|5",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|6",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|7",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|8",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|9",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|10",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|11",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|12",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|13",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|14",
+      "emc": 1
+    },
+    {
+      "item": "xtones:agon|15",
+      "emc": 1
+    },
+    {
+      "item": "xtones:azur|0",
+      "emc": 1
+    },
+    {
+      "item": "xtones:azur|1",
+      "emc": 109
+    },
+    {
+      "item": "xtones:azur|2",
+      "emc": 109
+    },
+    {
+      "item": "xtones:azur|3",
+      "emc": 109
+    },
+    {
+      "item": "xtones:azur|4",
+      "emc": 109
+    },
+    {
+      "item": "xtones:azur|5",
+      "emc": 109
+    },
+    {
+      "item": "xtones:azur|6",
+      "emc": 109
+    },
+    {
+      "item": "xtones:azur|7",
+      "emc": 109
+    },
+    {
+      "item": "xtones:azur|8",
+      "emc": 109
+    },
+    {
+      "item": "xtones:azur|9",
+      "emc": 109
+    },
+    {
+      "item": "xtones:azur|10",
+      "emc": 109
+    },
+    {
+      "item": "xtones:azur|11",
+      "emc": 109
+    },
+    {
+      "item": "xtones:azur|12",
+      "emc": 109
+    },
+    {
+      "item": "xtones:azur|13",
+      "emc": 109
+    },
+    {
+      "item": "xtones:azur|14",
+      "emc": 109
+    },
+    {
+      "item": "xtones:azur|15",
+      "emc": 109
+    },
+    {
+      "item": "xtones:bitt|0",
+      "emc": 17
+    },
+    {
+      "item": "xtones:bitt|1",
+      "emc": 17
+    },
+    {
+      "item": "xtones:bitt|2",
+      "emc": 17
+    },
+    {
+      "item": "xtones:bitt|3",
+      "emc": 17
+    },
+    {
+      "item": "xtones:bitt|4",
+      "emc": 17
+    },
+    {
+      "item": "xtones:bitt|5",
+      "emc": 17
+    },
+    {
+      "item": "xtones:bitt|6",
+      "emc": 17
+    },
+    {
+      "item": "xtones:bitt|7",
+      "emc": 17
+    },
+    {
+      "item": "xtones:bitt|8",
+      "emc": 17
+    },
+    {
+      "item": "xtones:bitt|9",
+      "emc": 17
+    },
+    {
+      "item": "xtones:bitt|10",
+      "emc": 17
+    },
+    {
+      "item": "xtones:bitt|11",
+      "emc": 17
+    },
+    {
+      "item": "xtones:bitt|12",
+      "emc": 17
+    },
+    {
+      "item": "xtones:bitt|13",
+      "emc": 17
+    },
+    {
+      "item": "xtones:bitt|14",
+      "emc": 17
+    },
+    {
+      "item": "xtones:bitt|15",
+      "emc": 17
+    },
+    {
+      "item": "xtones:cray|0",
+      "emc": 9
+    },
+    {
+      "item": "xtones:cray|1",
+      "emc": 9
+    },
+    {
+      "item": "xtones:cray|2",
+      "emc": 9
+    },
+    {
+      "item": "xtones:cray|3",
+      "emc": 9
+    },
+    {
+      "item": "xtones:cray|4",
+      "emc": 9
+    },
+    {
+      "item": "xtones:cray|5",
+      "emc": 9
+    },
+    {
+      "item": "xtones:cray|6",
+      "emc": 9
+    },
+    {
+      "item": "xtones:cray|7",
+      "emc": 9
+    },
+    {
+      "item": "xtones:cray|8",
+      "emc": 9
+    },
+    {
+      "item": "xtones:cray|9",
+      "emc": 9
+    },
+    {
+      "item": "xtones:cray|10",
+      "emc": 9
+    },
+    {
+      "item": "xtones:cray|11",
+      "emc": 9
+    },
+    {
+      "item": "xtones:cray|12",
+      "emc": 9
+    },
+    {
+      "item": "xtones:cray|13",
+      "emc": 9
+    },
+    {
+      "item": "xtones:cray|14",
+      "emc": 9
+    },
+    {
+      "item": "xtones:cray|15",
+      "emc": 9
+    },
+    {
+      "item": "xtones:fort|0",
+      "emc": 3
+    },
+    {
+      "item": "xtones:fort|1",
+      "emc": 3
+    },
+    {
+      "item": "xtones:fort|2",
+      "emc": 3
+    },
+    {
+      "item": "xtones:fort|3",
+      "emc": 3
+    },
+    {
+      "item": "xtones:fort|4",
+      "emc": 3
+    },
+    {
+      "item": "xtones:fort|5",
+      "emc": 3
+    },
+    {
+      "item": "xtones:fort|6",
+      "emc": 3
+    },
+    {
+      "item": "xtones:fort|7",
+      "emc": 3
+    },
+    {
+      "item": "xtones:fort|8",
+      "emc": 3
+    },
+    {
+      "item": "xtones:fort|9",
+      "emc": 3
+    },
+    {
+      "item": "xtones:fort|10",
+      "emc": 3
+    },
+    {
+      "item": "xtones:fort|11",
+      "emc": 3
+    },
+    {
+      "item": "xtones:fort|12",
+      "emc": 3
+    },
+    {
+      "item": "xtones:fort|13",
+      "emc": 3
+    },
+    {
+      "item": "xtones:fort|14",
+      "emc": 3
+    },
+    {
+      "item": "xtones:fort|15",
+      "emc": 3
+    },
+    {
+      "item": "xtones:glaxx|0",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|1",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|2",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|3",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|4",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|5",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|6",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|7",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|8",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|9",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|10",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|11",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|12",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|13",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|14",
+      "emc": 1
+    },
+    {
+      "item": "xtones:glaxx|15",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|0",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|1",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|2",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|3",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|4",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|5",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|6",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|7",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|8",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|9",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|10",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|11",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|12",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|13",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|14",
+      "emc": 1
+    },
+    {
+      "item": "xtones:iszm|15",
+      "emc": 1
+    },
+    {
+      "item": "xtones:jelt|0",
+      "emc": 3
+    },
+    {
+      "item": "xtones:jelt|1",
+      "emc": 3
+    },
+    {
+      "item": "xtones:jelt|2",
+      "emc": 3
+    },
+    {
+      "item": "xtones:jelt|3",
+      "emc": 3
+    },
+    {
+      "item": "xtones:jelt|4",
+      "emc": 3
+    },
+    {
+      "item": "xtones:jelt|5",
+      "emc": 3
+    },
+    {
+      "item": "xtones:jelt|6",
+      "emc": 3
+    },
+    {
+      "item": "xtones:jelt|7",
+      "emc": 3
+    },
+    {
+      "item": "xtones:jelt|8",
+      "emc": 3
+    },
+    {
+      "item": "xtones:jelt|9",
+      "emc": 3
+    },
+    {
+      "item": "xtones:jelt|10",
+      "emc": 3
+    },
+    {
+      "item": "xtones:jelt|11",
+      "emc": 3
+    },
+    {
+      "item": "xtones:jelt|12",
+      "emc": 3
+    },
+    {
+      "item": "xtones:jelt|13",
+      "emc": 3
+    },
+    {
+      "item": "xtones:jelt|14",
+      "emc": 3
+    },
+    {
+      "item": "xtones:jelt|15",
+      "emc": 3
+    },
+    {
+      "item": "xtones:korp|0",
+      "emc": 1
+    },
+    {
+      "item": "xtones:korp|1",
+      "emc": 1
+    },
+    {
+      "item": "xtones:korp|2",
+      "emc": 1
+    },
+    {
+      "item": "xtones:korp|3",
+      "emc": 1
+    },
+    {
+      "item": "xtones:korp|4",
+      "emc": 1
+    },
+    {
+      "item": "xtones:korp|5",
+      "emc": 1
+    },
+    {
+      "item": "xtones:korp|6",
+      "emc": 1
+    },
+    {
+      "item": "xtones:korp|7",
+      "emc": 1
+    },
+    {
+      "item": "xtones:korp|8",
+      "emc": 1
+    },
+    {
+      "item": "xtones:korp|9",
+      "emc": 1
+    },
+    {
+      "item": "xtones:korp|10",
+      "emc": 1
+    },
+    {
+      "item": "xtones:korp|11",
+      "emc": 1
+    },
+    {
+      "item": "xtones:korp|12",
+      "emc": 1
+    },
+    {
+      "item": "xtones:korp|13",
+      "emc": 1
+    },
+    {
+      "item": "xtones:korp|14",
+      "emc": 1
+    },
+    {
+      "item": "xtones:korp|15",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|0",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|1",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|2",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|3",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|4",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|5",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|6",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|7",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|8",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|9",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|10",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|11",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|12",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|13",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|14",
+      "emc": 1
+    },
+    {
+      "item": "xtones:kryp|15",
+      "emc": 1
+    },
+    {
+      "item": "xtones:lair|0",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lair|1",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lair|2",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lair|3",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lair|4",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lair|5",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lair|6",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lair|7",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lair|8",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lair|9",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lair|10",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lair|11",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lair|12",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lair|13",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lair|14",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lair|15",
+      "emc": 3
+    },
+    {
+      "item": "xtones:lave|0",
+      "emc": 2
+    },
+    {
+      "item": "xtones:lave|1",
+      "emc": 2
+    },
+    {
+      "item": "xtones:lave|2",
+      "emc": 2
+    },
+    {
+      "item": "xtones:lave|3",
+      "emc": 2
+    },
+    {
+      "item": "xtones:lave|4",
+      "emc": 2
+    },
+    {
+      "item": "xtones:lave|5",
+      "emc": 2
+    },
+    {
+      "item": "xtones:lave|6",
+      "emc": 2
+    },
+    {
+      "item": "xtones:lave|7",
+      "emc": 2
+    },
+    {
+      "item": "xtones:lave|8",
+      "emc": 2
+    },
+    {
+      "item": "xtones:lave|9",
+      "emc": 2
+    },
+    {
+      "item": "xtones:lave|10",
+      "emc": 2
+    },
+    {
+      "item": "xtones:lave|11",
+      "emc": 2
+    },
+    {
+      "item": "xtones:lave|12",
+      "emc": 2
+    },
+    {
+      "item": "xtones:lave|13",
+      "emc": 2
+    },
+    {
+      "item": "xtones:lave|14",
+      "emc": 2
+    },
+    {
+      "item": "xtones:lave|15",
+      "emc": 2
+    },
+    {
+      "item": "xtones:mint|0",
+      "emc": 4
+    },
+    {
+      "item": "xtones:mint|1",
+      "emc": 4
+    },
+    {
+      "item": "xtones:mint|2",
+      "emc": 4
+    },
+    {
+      "item": "xtones:mint|3",
+      "emc": 4
+    },
+    {
+      "item": "xtones:mint|4",
+      "emc": 4
+    },
+    {
+      "item": "xtones:mint|5",
+      "emc": 4
+    },
+    {
+      "item": "xtones:mint|6",
+      "emc": 4
+    },
+    {
+      "item": "xtones:mint|7",
+      "emc": 4
+    },
+    {
+      "item": "xtones:mint|8",
+      "emc": 4
+    },
+    {
+      "item": "xtones:mint|9",
+      "emc": 4
+    },
+    {
+      "item": "xtones:mint|10",
+      "emc": 4
+    },
+    {
+      "item": "xtones:mint|11",
+      "emc": 4
+    },
+    {
+      "item": "xtones:mint|12",
+      "emc": 4
+    },
+    {
+      "item": "xtones:mint|13",
+      "emc": 4
+    },
+    {
+      "item": "xtones:mint|14",
+      "emc": 4
+    },
+    {
+      "item": "xtones:mint|15",
+      "emc": 4
+    },
+    {
+      "item": "xtones:myst|0",
+      "emc": 1
+    },
+    {
+      "item": "xtones:myst|1",
+      "emc": 1
+    },
+    {
+      "item": "xtones:myst|2",
+      "emc": 1
+    },
+    {
+      "item": "xtones:myst|3",
+      "emc": 1
+    },
+    {
+      "item": "xtones:myst|4",
+      "emc": 1
+    },
+    {
+      "item": "xtones:myst|5",
+      "emc": 1
+    },
+    {
+      "item": "xtones:myst|6",
+      "emc": 1
+    },
+    {
+      "item": "xtones:myst|7",
+      "emc": 1
+    },
+    {
+      "item": "xtones:myst|8",
+      "emc": 1
+    },
+    {
+      "item": "xtones:myst|9",
+      "emc": 1
+    },
+    {
+      "item": "xtones:myst|10",
+      "emc": 1
+    },
+    {
+      "item": "xtones:myst|11",
+      "emc": 1
+    },
+    {
+      "item": "xtones:myst|12",
+      "emc": 1
+    },
+    {
+      "item": "xtones:myst|13",
+      "emc": 1
+    },
+    {
+      "item": "xtones:myst|14",
+      "emc": 1
+    },
+    {
+      "item": "xtones:myst|15",
+      "emc": 1
+    },
+    {
+      "item": "xtones:reds|0",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reds|1",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reds|2",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reds|3",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reds|4",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reds|5",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reds|6",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reds|7",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reds|8",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reds|9",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reds|10",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reds|11",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reds|12",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reds|13",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reds|14",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reds|15",
+      "emc": 3
+    },
+    {
+      "item": "xtones:reed|0",
+      "emc": 5
+    },
+    {
+      "item": "xtones:reed|1",
+      "emc": 5
+    },
+    {
+      "item": "xtones:reed|2",
+      "emc": 5
+    },
+    {
+      "item": "xtones:reed|3",
+      "emc": 5
+    },
+    {
+      "item": "xtones:reed|4",
+      "emc": 5
+    },
+    {
+      "item": "xtones:reed|5",
+      "emc": 5
+    },
+    {
+      "item": "xtones:reed|6",
+      "emc": 5
+    },
+    {
+      "item": "xtones:reed|7",
+      "emc": 5
+    },
+    {
+      "item": "xtones:reed|8",
+      "emc": 5
+    },
+    {
+      "item": "xtones:reed|9",
+      "emc": 5
+    },
+    {
+      "item": "xtones:reed|10",
+      "emc": 5
+    },
+    {
+      "item": "xtones:reed|11",
+      "emc": 5
+    },
+    {
+      "item": "xtones:reed|12",
+      "emc": 5
+    },
+    {
+      "item": "xtones:reed|13",
+      "emc": 5
+    },
+    {
+      "item": "xtones:reed|14",
+      "emc": 5
+    },
+    {
+      "item": "xtones:reed|15",
+      "emc": 5
+    },
+    {
+      "item": "xtones:roen|0",
+      "emc": 1
+    },
+    {
+      "item": "xtones:roen|1",
+      "emc": 1
+    },
+    {
+      "item": "xtones:roen|2",
+      "emc": 1
+    },
+    {
+      "item": "xtones:roen|3",
+      "emc": 1
+    },
+    {
+      "item": "xtones:roen|4",
+      "emc": 1
+    },
+    {
+      "item": "xtones:roen|5",
+      "emc": 1
+    },
+    {
+      "item": "xtones:roen|6",
+      "emc": 1
+    },
+    {
+      "item": "xtones:roen|7",
+      "emc": 1
+    },
+    {
+      "item": "xtones:roen|8",
+      "emc": 1
+    },
+    {
+      "item": "xtones:roen|9",
+      "emc": 1
+    },
+    {
+      "item": "xtones:roen|10",
+      "emc": 1
+    },
+    {
+      "item": "xtones:roen|11",
+      "emc": 1
+    },
+    {
+      "item": "xtones:roen|12",
+      "emc": 1
+    },
+    {
+      "item": "xtones:roen|13",
+      "emc": 1
+    },
+    {
+      "item": "xtones:roen|14",
+      "emc": 1
+    },
+    {
+      "item": "xtones:roen|15",
+      "emc": 1
+    },
+    {
+      "item": "xtones:sols|0",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sols|1",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sols|2",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sols|3",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sols|4",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sols|5",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sols|6",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sols|7",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sols|8",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sols|9",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sols|10",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sols|11",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sols|12",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sols|13",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sols|14",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sols|15",
+      "emc": 3
+    },
+    {
+      "item": "xtones:sync|0",
+      "emc": 2
+    },
+    {
+      "item": "xtones:sync|1",
+      "emc": 2
+    },
+    {
+      "item": "xtones:sync|2",
+      "emc": 2
+    },
+    {
+      "item": "xtones:sync|3",
+      "emc": 2
+    },
+    {
+      "item": "xtones:sync|4",
+      "emc": 2
+    },
+    {
+      "item": "xtones:sync|5",
+      "emc": 2
+    },
+    {
+      "item": "xtones:sync|6",
+      "emc": 2
+    },
+    {
+      "item": "xtones:sync|7",
+      "emc": 2
+    },
+    {
+      "item": "xtones:sync|8",
+      "emc": 2
+    },
+    {
+      "item": "xtones:sync|9",
+      "emc": 2
+    },
+    {
+      "item": "xtones:sync|10",
+      "emc": 2
+    },
+    {
+      "item": "xtones:sync|11",
+      "emc": 2
+    },
+    {
+      "item": "xtones:sync|12",
+      "emc": 2
+    },
+    {
+      "item": "xtones:sync|13",
+      "emc": 2
+    },
+    {
+      "item": "xtones:sync|14",
+      "emc": 2
+    },
+    {
+      "item": "xtones:sync|15",
+      "emc": 2
+    },
+    {
+      "item": "xtones:tank|0",
+      "emc": 5
+    },
+    {
+      "item": "xtones:tank|1",
+      "emc": 5
+    },
+    {
+      "item": "xtones:tank|2",
+      "emc": 5
+    },
+    {
+      "item": "xtones:tank|3",
+      "emc": 5
+    },
+    {
+      "item": "xtones:tank|4",
+      "emc": 5
+    },
+    {
+      "item": "xtones:tank|5",
+      "emc": 5
+    },
+    {
+      "item": "xtones:tank|6",
+      "emc": 5
+    },
+    {
+      "item": "xtones:tank|7",
+      "emc": 5
+    },
+    {
+      "item": "xtones:tank|8",
+      "emc": 5
+    },
+    {
+      "item": "xtones:tank|9",
+      "emc": 5
+    },
+    {
+      "item": "xtones:tank|10",
+      "emc": 5
+    },
+    {
+      "item": "xtones:tank|11",
+      "emc": 5
+    },
+    {
+      "item": "xtones:tank|12",
+      "emc": 5
+    },
+    {
+      "item": "xtones:tank|13",
+      "emc": 5
+    },
+    {
+      "item": "xtones:tank|14",
+      "emc": 5
+    },
+    {
+      "item": "xtones:tank|15",
+      "emc": 5
+    },
+    {
+      "item": "xtones:vect|0",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vect|1",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vect|2",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vect|3",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vect|4",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vect|5",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vect|6",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vect|7",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vect|8",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vect|9",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vect|10",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vect|11",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vect|12",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vect|13",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vect|14",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vect|15",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|0",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|1",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|2",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|3",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|4",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|5",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|6",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|7",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|8",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|9",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|10",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|11",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|12",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|13",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|14",
+      "emc": 3
+    },
+    {
+      "item": "xtones:vena|15",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|0",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|1",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|2",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|3",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|4",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|5",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|6",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|7",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|8",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|9",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|10",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|11",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|12",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|13",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|14",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zane|15",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zech|0",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zech|1",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zech|2",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zech|3",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zech|4",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zech|5",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zech|6",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zech|7",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zech|8",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zech|9",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zech|10",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zech|11",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zech|12",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zech|13",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zech|14",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zech|15",
+      "emc": 5
+    },
+    {
+      "item": "xtones:zest|0",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zest|1",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zest|2",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zest|3",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zest|4",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zest|5",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zest|6",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zest|7",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zest|8",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zest|9",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zest|10",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zest|11",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zest|12",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zest|13",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zest|14",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zest|15",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zeta|0",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zeta|1",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zeta|2",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zeta|3",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zeta|4",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zeta|5",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zeta|6",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zeta|7",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zeta|8",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zeta|9",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zeta|10",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zeta|11",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zeta|12",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zeta|13",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zeta|14",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zeta|15",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|0",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|1",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|2",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|3",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|4",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|5",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|6",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|7",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|8",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|9",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|10",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|11",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|12",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|13",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|14",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zion|15",
+      "emc": 2
+    },
+    {
+      "item": "xtones:zkul|0",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zkul|1",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zkul|2",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zkul|3",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zkul|4",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zkul|5",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zkul|6",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zkul|7",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zkul|8",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zkul|9",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zkul|10",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zkul|11",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zkul|12",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zkul|13",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zkul|14",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zkul|15",
+      "emc": 19
+    },
+    {
+      "item": "xtones:zoea|0",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zoea|1",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zoea|2",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zoea|3",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zoea|4",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zoea|5",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zoea|6",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zoea|7",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zoea|8",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zoea|9",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zoea|10",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zoea|11",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zoea|12",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zoea|13",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zoea|14",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zoea|15",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zome|0",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zome|1",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zome|2",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zome|3",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zome|4",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zome|5",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zome|6",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zome|7",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zome|8",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zome|9",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zome|10",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zome|11",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zome|12",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zome|13",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zome|14",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zome|15",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|0",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|1",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|2",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|3",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|4",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|5",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|6",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|7",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|8",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|9",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|10",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|11",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|12",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|13",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|14",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zone|15",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zorg|0",
+      "emc": 9
+    },
+    {
+      "item": "xtones:zorg|1",
+      "emc": 9
+    },
+    {
+      "item": "xtones:zorg|2",
+      "emc": 9
+    },
+    {
+      "item": "xtones:zorg|3",
+      "emc": 9
+    },
+    {
+      "item": "xtones:zorg|4",
+      "emc": 9
+    },
+    {
+      "item": "xtones:zorg|5",
+      "emc": 9
+    },
+    {
+      "item": "xtones:zorg|6",
+      "emc": 9
+    },
+    {
+      "item": "xtones:zorg|7",
+      "emc": 9
+    },
+    {
+      "item": "xtones:zorg|8",
+      "emc": 9
+    },
+    {
+      "item": "xtones:zorg|9",
+      "emc": 9
+    },
+    {
+      "item": "xtones:zorg|10",
+      "emc": 9
+    },
+    {
+      "item": "xtones:zorg|11",
+      "emc": 9
+    },
+    {
+      "item": "xtones:zorg|12",
+      "emc": 9
+    },
+    {
+      "item": "xtones:zorg|13",
+      "emc": 9
+    },
+    {
+      "item": "xtones:zorg|14",
+      "emc": 9
+    },
+    {
+      "item": "xtones:zorg|15",
+      "emc": 9
+    },
+    {
+      "item": "xtones:ztyl|0",
+      "emc": 3
+    },
+    {
+      "item": "xtones:ztyl|1",
+      "emc": 3
+    },
+    {
+      "item": "xtones:ztyl|2",
+      "emc": 3
+    },
+    {
+      "item": "xtones:ztyl|3",
+      "emc": 3
+    },
+    {
+      "item": "xtones:ztyl|4",
+      "emc": 3
+    },
+    {
+      "item": "xtones:ztyl|5",
+      "emc": 3
+    },
+    {
+      "item": "xtones:ztyl|6",
+      "emc": 3
+    },
+    {
+      "item": "xtones:ztyl|7",
+      "emc": 3
+    },
+    {
+      "item": "xtones:ztyl|8",
+      "emc": 3
+    },
+    {
+      "item": "xtones:ztyl|9",
+      "emc": 3
+    },
+    {
+      "item": "xtones:ztyl|10",
+      "emc": 3
+    },
+    {
+      "item": "xtones:ztyl|11",
+      "emc": 3
+    },
+    {
+      "item": "xtones:ztyl|12",
+      "emc": 3
+    },
+    {
+      "item": "xtones:ztyl|13",
+      "emc": 3
+    },
+    {
+      "item": "xtones:ztyl|14",
+      "emc": 3
+    },
+    {
+      "item": "xtones:ztyl|15",
+      "emc": 3
+    },
+    {
+      "item": "xtones:zyth|0",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zyth|1",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zyth|2",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zyth|3",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zyth|4",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zyth|5",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zyth|6",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zyth|7",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zyth|8",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zyth|9",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zyth|10",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zyth|11",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zyth|12",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zyth|13",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zyth|14",
+      "emc": 1
+    },
+    {
+      "item": "xtones:zyth|15",
+      "emc": 1
+    },
+    {
+      "item": "chisel:andesite|0",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|1",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|2",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|3",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|4",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|5",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|6",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|7",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|8",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|9",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|10",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|11",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|12",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|13",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|14",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|15",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|0",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|1",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|2",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|3",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|4",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|5",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|6",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|7",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|8",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|9",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|10",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|11",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|12",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|13",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|14",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|15",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite2|0",
+      "emc": 16
+    },
+    {
+      "item": "chisel:antiblock|0",
+      "emc": 49
+    },
+    {
+      "item": "chisel:antiblock|1",
+      "emc": 49
+    },
+    {
+      "item": "chisel:antiblock|2",
+      "emc": 49
+    },
+    {
+      "item": "chisel:antiblock|3",
+      "emc": 49
+    },
+    {
+      "item": "chisel:antiblock|4",
+      "emc": 49
+    },
+    {
+      "item": "chisel:antiblock|5",
+      "emc": 49
+    },
+    {
+      "item": "chisel:antiblock|6",
+      "emc": 49
+    },
+    {
+      "item": "chisel:antiblock|7",
+      "emc": 49
+    },
+    {
+      "item": "chisel:antiblock|8",
+      "emc": 49
+    },
+    {
+      "item": "chisel:antiblock|9",
+      "emc": 49
+    },
+    {
+      "item": "chisel:antiblock|10",
+      "emc": 49
+    },
+    {
+      "item": "chisel:antiblock|11",
+      "emc": 49
+    },
+    {
+      "item": "chisel:antiblock|12",
+      "emc": 49
+    },
+    {
+      "item": "chisel:antiblock|13",
+      "emc": 49
+    },
+    {
+      "item": "chisel:antiblock|14",
+      "emc": 49
+    },
+    {
+      "item": "chisel:antiblock|15",
+      "emc": 49
+    },
+    {
+      "item": "chisel:basalt|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|6",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|7",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|8",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|9",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|10",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|11",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|12",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|13",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|14",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt|15",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|6",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|7",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|8",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|9",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|10",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|11",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|12",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|13",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|14",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt1|15",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt2|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt2|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt2|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt2|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt2|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt2|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt2|6",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|6",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|7",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|8",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|9",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|10",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|11",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|12",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|13",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|14",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite|15",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|6",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|7",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|8",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|9",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|10",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|11",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|12",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|13",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|14",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite1|15",
+      "emc": 1
+    },
+    {
+      "item": "chisel:diorite2|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:sign|0",
+      "emc": 17
+    },
+    {
+      "item": "harvestcraft:ryeitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:gigapickleitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:riceseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:agaveitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:dateitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:juniperberryseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:tomatilloitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:tomatilloseeditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:juniperberryitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:lentilitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pamdate|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:pampapaya|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:pamcherry|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:pamrambutan|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:rambutanitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pamdragonfruit|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:pamlemon|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:pampassionfruit|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:passionfruititem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pamjackfruit|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:jackfruititem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pamfig|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:pampear|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:oliveitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pamolive|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:grapefruititem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pamgrapefruit|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:pamspiderweb|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:starfruititem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:tamarinditem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:breadfruititem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:cashewitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:pistachioitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:guavaitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:lycheeitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:peachitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:limeitem|0",
+      "emc": 4
+    },
+    {
+      "item": "harvestcraft:flouritem|0",
+      "emc": 2
+    },
+    {
+      "item": "harvestcraft:freshwateritem|0",
+      "emc": 768
+    },
+    {
+      "item": "minecraft:stone_pressure_plate|0",
+      "emc": 1
+    },
+    {
+      "item": "harvestcraft:shrimprawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:crabrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:crayfishrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:oysterrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:charrrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:catfishrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:carprawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:bassrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:anchovyrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:clamrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:octopusrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:mudfishrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:jellyfishrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:herringrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:grouperrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:eelrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:frograwitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:perchrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:scalloprawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:snailrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:snapperrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:tilapiarawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:troutrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:tunarawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:musselrawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:sardinerawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:greenheartfishitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:walleyerawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:turtlerawitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:silkentofuitem|0",
+      "emc": 8
+    },
+    {
+      "item": "harvestcraft:firmtofuitem|0",
+      "emc": 16
+    },
+    {
+      "item": "harvestcraft:soymilkitem|0",
+      "emc": 32
+    },
+    {
+      "item": "harvestcraft:honeycombitem|0",
+      "emc": 48
+    },
+    {
+      "item": "harvestcraft:honeyitem|0",
+      "emc": 24
+    },
+    {
+      "item": "bewitchment:mandrake_root|0",
+      "emc": 16
+    },
+    {
+      "item": "bewitchment:hellebore|0",
+      "emc": 16
+    },
+    {
+      "item": "bewitchment:aconitum|0",
+      "emc": 16
+    },
+    {
+      "item": "bewitchment:wormwood|0",
+      "emc": 16
+    },
+    {
+      "item": "xlfoodmod:rice|0",
+      "emc": 16
+    },
+    {
+      "item": "ore:blockSteel|0",
+      "emc": 16
+    },
+    {
+      "item": "tconstruct:ingots|3",
+      "emc": 2000
+    },
+    {
+      "item": "tconstruct:materials|19",
+      "emc": 2000
+    }
+  ]
+}

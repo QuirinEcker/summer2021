@@ -1,0 +1,41 @@
+{
+	title: "Twilight Forest",
+	x: 19.5d,
+	y: 0.0d,
+	description: "Kill the naga",
+	text: [
+		""
+	],
+	dependencies: [
+		"c825b0bd"
+	],
+	tasks: [{
+		uid: "9661805d",
+		type: "item",
+		items: [{
+			item: "telepastries:twilight_cake"
+		}]
+	},
+	{
+		uid: "a59543f9",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy"
+		}]
+	},
+	{
+		uid: "df51d0f4",
+		type: "dimension",
+		dim: 7
+	}],
+	rewards: [{
+		uid: "e492b692",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:data_model_twilight_forest"
+		}
+	}]
+}

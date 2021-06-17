@@ -1,0 +1,31 @@
+{
+	title: "Unlimited Power",
+	x: 10.5d,
+	y: -1.5d,
+	description: "Pay 10.000 RF / FE with a Task Screen",
+	text: [
+		""
+	],
+	dependencies: [
+		"3ce49551"
+	],
+	tasks: [{
+		uid: "bc8e1099",
+		type: "forge_energy",
+		value: 10000L,
+		max_input: 10000L
+	},
+	{
+		uid: "b08809b0",
+		type: "item",
+		items: [{
+			item: "ftbquests:screen"
+		}]
+	}],
+	rewards: [{
+		uid: "f9dfae84",
+		type: "item",
+		item: "minecraft:coal_block",
+		count: 16
+	}]
+}

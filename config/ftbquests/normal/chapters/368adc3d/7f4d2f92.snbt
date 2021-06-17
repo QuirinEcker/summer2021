@@ -1,0 +1,42 @@
+{
+	title: "Bigger Chest",
+	x: 6.0d,
+	y: 0.0d,
+	description: "Craft an Iron Chest OR an upgrade",
+	text: [
+		""
+	],
+	dependencies: [
+		"e8e78de6"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "dba8b211",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest"
+		}]
+	},
+	{
+		uid: "1f78c415",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironchest:wood_iron_chest_upgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b58b6b1f",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "inventorypets:double_chest_pet"
+		}
+	}]
+}

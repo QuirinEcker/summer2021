@@ -1,0 +1,111 @@
+{
+	title: "Reward",
+	loot_size: 1,
+	rewards: [{
+		item: "waystones:waystone",
+		weight: 3
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mutantbeasts:hulk_hammer"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironbackpacks:backpack",
+			tag: {
+				packInfo: {
+					upgrade: [],
+					type: "ironbackpacks:iron",
+					spec: "STORAGE"
+				}
+			}
+		},
+		weight: 3
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "matteroverdrive:omni_tool",
+			tag: {
+				energy: {
+					maxReceive: 128,
+					maxExtract: 128,
+					energy: 32000,
+					capacity: 32000
+				}
+			}
+		},
+		weight: 6
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "inventorypets:chest_pet"
+		},
+		weight: 2
+	},
+	{
+		item: "hexxitgear:hexical_essence",
+		count: 4
+	},
+	{
+		item: "randomthings:ingredient 1 2"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanshields:shield_tc_thaumium"
+		},
+		weight: 2
+	},
+	{
+		item: "enderutilities:enderpearlreusable 1 1"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "wizardrygolems:charm_dried_mushroom"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:master_healing_wand"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:halberd_diamond"
+		},
+		weight: 3
+	}],
+	loot_crate: {
+		string_id: "reward",
+		color: 16777215,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 0
+		}
+	}
+}

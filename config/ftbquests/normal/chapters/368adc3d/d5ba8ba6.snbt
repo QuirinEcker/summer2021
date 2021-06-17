@@ -1,0 +1,24 @@
+{
+	title: "Experience Tranquility",
+	x: 1.5d,
+	y: -1.5d,
+	description: "Pay 15xp levels",
+	text: [
+		""
+	],
+	dependencies: [
+		"d987fec8"
+	],
+	tasks: [{
+		uid: "69433440",
+		type: "xp",
+		value: 15L,
+		points: false
+	}],
+	rewards: [{
+		uid: "5bc2f577",
+		type: "xp_levels",
+		auto: "enabled",
+		xp_levels: 15
+	}]
+}
